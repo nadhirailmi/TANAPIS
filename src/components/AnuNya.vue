@@ -1,10 +1,10 @@
 <template>
     <div loading="lazy" class="w-full text-white md:mt-[-200px] px-8 md:px-14 text-xl py-8 md:pt-[250px] text-center md:text-left bg-center-bottom bg-no-repeat mb-8 md:bg-cover bg-[url('/public/assets/bg2.avif')]">
-        <h1 class="font-bold text-2xl text-primary2" id="layan">Cluster</h1>
+        <h1 class="font-bold text-2xl text-primary2 mx-auto" id="layan">Cluster</h1>
 
         <div class="md:flex justify-between my-3 md:my-5 h-fit">
 
-            <div class="md:w-[40%] mr-2 ">
+            <div class="md:w-[40%] md:mr-2">
 
                 <h1 class="font-semibold text-2xl md:text-3xl my-1 md:my-2">Nama Cluster</h1>
                 <p class="md:text-xl text-sm my-2 md:my-5">

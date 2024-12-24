@@ -1,5 +1,5 @@
 <template>
-    <div class="px-8 md:px-14 pb-16 md:pt-10">
+    <div class="px-8 md:px-14 pb-16 pt-5 md:pt-10">
         <h1 class="text-2xl font-bold text-primary2">TENTANG KAMI</h1>
 
         <div class="md:flex mt-4 md:h-[500px]">
