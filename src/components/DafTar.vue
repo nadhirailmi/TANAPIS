@@ -1,6 +1,6 @@
 <template>
 
-    <div class="text-center md:text-start px-8 md:px-14 md:flex py-10 text-white bg-gradient-to-b from-[#08203D] via-[#2B4B69] to-[#08203D]">
+    <div class="text-center md:text-start px-8 md:px-14 md:flex py-10 text-white bg-center-bottom bg-no-repeat mb-8 md:bg-cover bg-[url('/public/assets/bg2.avif')]">
 
         <div class="md:w-[40%] md:mr-6 justify-center align-middle my-auto">
 
@@ -15,13 +15,13 @@
             <div class="md:flex justify-between w-full text-black mb-2">
 
                 <div class="w-full mt-2 md:mt-0 bg-white md:mr-1 rounded-md p-8">
-                    <img src="../assets/Group 33.png" alt="" class="w-20 h-16 hover:scale-125 transition-all mx-auto md:mx-0">
+                    <img src="/public/assets/Group 33.png" alt="" class="w-20 h-16 hover:scale-125 transition-all mx-auto md:mx-0">
                     <h4 class="mt-3 text-lg font-bold">Lorem</h4>
                     <p class="text-sm md:text-base">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorem, qui?</p>
                 </div>
 
                 <div class="w-full mt-2 md:mt-0 bg-white md:ml-1 rounded-md p-8">
-                    <img src="../assets/Group 34.png" alt="" class="w-20 h-16 hover:scale-125 transition-all mx-auto md:mx-0">
+                    <img src="/public/assets/Group 34.png" alt="" class="w-20 h-16 hover:scale-125 transition-all mx-auto md:mx-0">
                     <h4 class="mt-3 text-lg font-bold">Lorem</h4>
                     <p class="text-sm md:text-base">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, reiciendis?</p>
                 </div>
@@ -31,13 +31,13 @@
             <div class="md:flex justify-between w-full text-black mt-1">
 
                 <div class="w-full bg-white md:mr-1 rounded-md p-8">
-                    <img src="../assets/Group 35.png" alt="" class="w-20 h-16 hover:scale-125 transition-all mx-auto md:mx-0">
+                    <img src="/public/assets/Group 35.png" alt="" class="w-20 h-16 hover:scale-125 transition-all mx-auto md:mx-0">
                     <h4 class="mt-3 text-lg font-bold">Lorem</h4>
                     <p class="text-sm md:text-base">Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, dignissimos.</p>
                 </div>
 
                 <div class="w-full mt-2 md:mt-0 bg-white md:ml-1 rounded-md p-8">
-                    <img src="../assets/Group 36.png" alt="" class="w-20 h-16 hover:scale-125 transition-all mx-auto md:mx-0">
+                    <img src="/public/assets/Group 36.png" alt="" class="w-20 h-16 hover:scale-125 transition-all mx-auto md:mx-0">
                     <h4 class="mt-3 text-lg font-bold">Lorem</h4>
                     <p class="text-sm md:text-base">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci, molestiae?</p>
                 </div>

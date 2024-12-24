@@ -18,7 +18,7 @@
                 
 
                 <video class="w-full mt-4 h-[48%]" controls>
-                    <source src="../assets/WKWK.mp4" type="video/mp4">
+                    <source src="/public/assets/WKWK.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
 
@@ -34,7 +34,7 @@
 
                         <div class="bg-primary2 px-4 py-4 w-[50%]">
 
-                            <img src="../assets/mdi_eye.png" alt="" class="mx-auto md:w-20 w-10 h-10 md:h-20">
+                            <img src="/public/assets/mdi_eye.png" alt="" class="mx-auto md:w-20 w-10 h-10 md:h-20">
 
                         </div>
 
@@ -77,7 +77,7 @@
 
                         <div class="bg-primary2 px-4 py-4 w-[50%] justify-center">
 
-                            <img src="../assets/Group.png" alt="" class="mx-auto md:w-20 w-10 h-10 md:h-20">
+                            <img src="/public/assets/Group.png" alt="" class="mx-auto md:w-20 w-10 h-10 md:h-20">
 
                         </div>
 

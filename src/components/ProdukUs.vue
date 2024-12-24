@@ -13,15 +13,15 @@
                         <div class="relative h-56 overflow-hidden rounded-t-md md:h-64">
                             <!-- Item 1 -->
                             <div class="hidden duration-700 ease-in-out" data-carousel-item>
-                                <img src="../assets/rumah3.avif" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                                <img src="/public/assets/rumah3.avif" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
                             </div>
                             <!-- Item 2 -->
                             <div class="hidden duration-700 ease-in-out" data-carousel-item>
-                                <img src="../assets/rumah2.avif" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                                <img src="/public/assets/rumah2.avif" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
                             </div>
                             <!-- Item 3 -->
                             <div class="hidden duration-700 ease-in-out" data-carousel-item>
-                                <img src="../assets/rumah3.avif" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                                <img src="/public/assets/rumah3.avif" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
                             </div>
                             <!-- Additional items as needed -->
                         </div>
@@ -58,19 +58,19 @@
                         </a>
                         <div class="flex justify-between">
                             <div class="mb-3 font-normal text-gray-700 flex my-auto w-full">
-                                <img src="../assets/majesticons_bath-shower.avif" alt="" class="mr-2 h-7 w-7">1 Kamar Mandi
+                                <img src="/public/assets/majesticons_bath-shower.avif" alt="" class="mr-2 h-7 w-7">1 Kamar Mandi
                             </div>
                             <div class="mb-3 font-normal text-gray-700 flex my-auto w-full">
-                                <img src="../assets/material-symbols_stairs.avif" alt="" class="mr-2 h-7 w-7">100 Lantai
+                                <img src="/public/assets/material-symbols_stairs.avif" alt="" class="mr-2 h-7 w-7">100 Lantai
                             </div>
                         </div>
 
                         <div class="flex justify-between">
                             <div class="mb-3 font-normal text-gray-700 flex my-auto w-full">
-                                <img src="../assets/mingcute_bed-fill.avif" alt="" class="mr-2 h-7 w-7">2 Kamar Tidur
+                                <img src="/public/assets/mingcute_bed-fill.avif" alt="" class="mr-2 h-7 w-7">2 Kamar Tidur
                             </div>
                             <div class="mb-3 font-normal text-gray-700 flex my-auto w-full">
-                                <img src="../assets/Vector.avif" alt="" class="mr-2 h-7 w-7">3 Mobil
+                                <img src="/public/assets/Vector.avif" alt="" class="mr-2 h-7 w-7">3 Mobil
                             </div>
                         </div>
 
@@ -85,15 +85,15 @@
                         <div class="relative h-56 overflow-hidden rounded-t-md md:h-64">
                             <!-- Item 1 -->
                             <div class="hidden duration-700 ease-in-out" data-carousel-item>
-                                <img src="../assets/rumah3.avif" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                                <img src="/public/assets/rumah3.avif" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
                             </div>
                             <!-- Item 2 -->
                             <div class="hidden duration-700 ease-in-out" data-carousel-item>
-                                <img src="../assets/rumah2.avif" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                                <img src="/public/assets/rumah2.avif" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
                             </div>
                             <!-- Item 3 -->
                             <div class="hidden duration-700 ease-in-out" data-carousel-item>
-                                <img src="../assets/rumah3.avif" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                                <img src="/public/assets/rumah3.avif" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
                             </div>
                             <!-- Additional items as needed -->
                         </div>
@@ -130,19 +130,19 @@
                         </a>
                         <div class="flex justify-between">
                             <div class="mb-3 font-normal text-gray-700 flex my-auto w-full">
-                                <img src="../assets/majesticons_bath-shower.avif" alt="" class="mr-2 h-7 w-7">1 Kamar Mandi
+                                <img src="/public/assets/majesticons_bath-shower.avif" alt="" class="mr-2 h-7 w-7">1 Kamar Mandi
                             </div>
                             <div class="mb-3 font-normal text-gray-700 flex my-auto w-full">
-                                <img src="../assets/material-symbols_stairs.avif" alt="" class="mr-2 h-7 w-7">100 Lantai
+                                <img src="/public/assets/material-symbols_stairs.avif" alt="" class="mr-2 h-7 w-7">100 Lantai
                             </div>
                         </div>
 
                         <div class="flex justify-between">
                             <div class="mb-3 font-normal text-gray-700 flex my-auto w-full">
-                                <img src="../assets/mingcute_bed-fill.avif" alt="" class="mr-2 h-7 w-7">2 Kamar Tidur
+                                <img src="/public/assets/mingcute_bed-fill.avif" alt="" class="mr-2 h-7 w-7">2 Kamar Tidur
                             </div>
                             <div class="mb-3 font-normal text-gray-700 flex my-auto w-full">
-                                <img src="../assets/Vector.avif" alt="" class="mr-2 h-7 w-7">3 Mobil
+                                <img src="/public/assets/Vector.avif" alt="" class="mr-2 h-7 w-7">3 Mobil
                             </div>
                         </div>
 
@@ -157,15 +157,15 @@
                         <div class="relative h-56 overflow-hidden rounded-t-md md:h-64">
                             <!-- Item 1 -->
                             <div class="hidden duration-700 ease-in-out" data-carousel-item>
-                                <img src="../assets/rumah3.avif" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                                <img src="/public/assets/rumah3.avif" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
                             </div>
                             <!-- Item 2 -->
                             <div class="hidden duration-700 ease-in-out" data-carousel-item>
-                                <img src="../assets/rumah2.avif" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                                <img src="/public/assets/rumah2.avif" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
                             </div>
                             <!-- Item 3 -->
                             <div class="hidden duration-700 ease-in-out" data-carousel-item>
-                                <img src="../assets/rumah3.avif" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                                <img src="/public/assets/rumah3.avif" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
                             </div>
                             <!-- Additional items as needed -->
                         </div>
@@ -202,19 +202,19 @@
                         </a>
                         <div class="flex justify-between">
                             <div class="mb-3 font-normal text-gray-700 flex my-auto w-full">
-                                <img src="../assets/majesticons_bath-shower.avif" alt="" class="mr-2 h-7 w-7">1 Kamar Mandi
+                                <img src="/public/assets/majesticons_bath-shower.avif" alt="" class="mr-2 h-7 w-7">1 Kamar Mandi
                             </div>
                             <div class="mb-3 font-normal text-gray-700 flex my-auto w-full">
-                                <img src="../assets/material-symbols_stairs.avif" alt="" class="mr-2 h-7 w-7">100 Lantai
+                                <img src="/public/assets/material-symbols_stairs.avif" alt="" class="mr-2 h-7 w-7">100 Lantai
                             </div>
                         </div>
 
                         <div class="flex justify-between">
                             <div class="mb-3 font-normal text-gray-700 flex my-auto w-full">
-                                <img src="../assets/mingcute_bed-fill.avif" alt="" class="mr-2 h-7 w-7">2 Kamar Tidur
+                                <img src="/public/assets/mingcute_bed-fill.avif" alt="" class="mr-2 h-7 w-7">2 Kamar Tidur
                             </div>
                             <div class="mb-3 font-normal text-gray-700 flex my-auto w-full">
-                                <img src="../assets/Vector.avif" alt="" class="mr-2 h-7 w-7">3 Mobil
+                                <img src="/public/assets/Vector.avif" alt="" class="mr-2 h-7 w-7">3 Mobil
                             </div>
                         </div>
 

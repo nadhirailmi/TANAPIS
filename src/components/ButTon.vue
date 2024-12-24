@@ -6,7 +6,7 @@
           @click="scrollTo('top')"
           class="fixed top-[90%] right-[3%] bg-primary2 p-4 rounded-sm z-super transition-all duration-300"
         >
-          <img src="../assets/ep_arrow-up-bold.png" alt="Arrow Up" />
+          <img src="/public/assets/ep_arrow-up-bold.png" alt="Arrow Up" />
         </button>
       </transition>
     </div>

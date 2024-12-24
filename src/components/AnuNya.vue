@@ -1,5 +1,5 @@
 <template>
-    <div loading="lazy" class="w-full text-white md:mt-[-200px] px-8 md:px-14 text-xl py-8 md:pt-[250px] text-center md:text-left bg-gradient-to-b from-[#08203D] via-[#2B4B69] to-[#08203D]">
+    <div loading="lazy" class="w-full text-white md:mt-[-200px] px-8 md:px-14 text-xl py-8 md:pt-[250px] text-center md:text-left bg-center-bottom bg-no-repeat mb-8 md:bg-cover bg-[url('/public/assets/bg2.avif')]">
         <h1 class="font-bold text-2xl text-primary2" id="layan">Cluster</h1>
 
         <div class="md:flex justify-between my-3 md:my-5 h-fit">
@@ -29,7 +29,7 @@
             </div>
 
             <div class=" md:w-[55%] items-center h-full">                
-                <img src="../assets/home.avif" alt="" class="w-full h-auto md:w-[426px] object-cover max-w-lg mx-auto">
+                <img src="/public/assets/home.avif" alt="" class="w-full h-auto md:w-[426px] object-cover max-w-lg mx-auto">
 
                 <div class="bg-white text-black p-5 rounded-md w-full mt-4 md:mt-8">
                     <h1 class="my-1 font-bold">Fasilitas</h1>
