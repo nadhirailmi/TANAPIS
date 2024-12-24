@@ -1,6 +1,6 @@
 <template>
 
-    <div class="text-center md:text-start px-8 md:px-14 md:flex py-10 text-white bg-center-bottom bg-no-repeat bg-cover md:bg-cover bg-[url('src/assets/bg2.avif')] bg-blend-multiply">
+    <div class="text-center md:text-start px-8 md:px-14 md:flex py-10 text-white bg-gradient-to-b from-[#08203D] via-[#2B4B69] to-[#08203D]">
 
         <div class="md:w-[40%] md:mr-6 justify-center align-middle my-auto">
 

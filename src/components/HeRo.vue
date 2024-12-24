@@ -1,6 +1,6 @@
 <template>
 
-    <section id="hero" class="w-full bg-center-bottom bg-no-repeat mb-8 md:bg-cover bg-[url('src/assets/HERO.avif')] justify-between flex px-4" loading="lazy">
+    <section id="hero" class="w-full bg-gradient-to-b from-[#08203D] via-[#2B4B69] to-[#08203D] justify-between flex px-4" loading="lazy">
 
         <div class="text-white text-center sm:text-left py-40 mx-11 sm:w-[50%]">
 

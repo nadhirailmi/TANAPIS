@@ -1,5 +1,5 @@
 <template>
-    <div loading="lazy" class="w-full text-white md:mt-[-200px] px-8 md:px-14 text-xl py-8 md:pt-[250px] text-center md:text-left bg-center-bottom bg-no-repeat bg-cover md:bg-cover bg-[url('src/assets/bg2.avif')] bg-blend-multiply">
+    <div loading="lazy" class="w-full text-white md:mt-[-200px] px-8 md:px-14 text-xl py-8 md:pt-[250px] text-center md:text-left bg-gradient-to-b from-[#08203D] via-[#2B4B69] to-[#08203D]">
         <h1 class="font-bold text-2xl text-primary2" id="layan">Cluster</h1>
 
         <div class="md:flex justify-between my-3 md:my-5 h-fit">
