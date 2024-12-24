@@ -11,6 +11,6 @@
             <span class="bg-primary2 py-2 px-3 font-semibold rounded-md hover:bg-white hover:text-primary2 border-2 border-primary2 transition-all cursor-pointer">0811-4733-332</span>
 
         </div>
-        <img src="../assets/foto.png" alt="" class="w-96 md:mt-0 mt-10 mx-auto">
+        <img src="../assets/foto.png" alt="" class="w-96 h-96 md:mt-0 mt-10 mx-auto">
     </div>
 </template>

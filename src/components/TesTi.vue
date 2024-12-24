@@ -2,7 +2,7 @@
 
     <div class="px-14 pt-32 pb-20">
         <div class="bg-white drop-shadow-2xl p-5 rounded-md ">
-            <img src="../assets/“.png" alt="" class="md:w-10">
+            <img src="../assets/“.png" alt="" class="md:w-10 md:h-8">
 
             <div class="flex justify-between">
                 <img src="../assets/d 1.png" alt="" class="mx-auto border-[10px] border-white h-28 w-28 mt-[-100px] rounded-full">
@@ -14,7 +14,7 @@
 
             <div class="flex justify-between">
                 <div></div>
-                <img src="../assets/”.png" alt="" class="justify-end md">
+                <img src="../assets/”.png" alt="" class="justify-end md:w-10 md:h-8">
             </div>
         </div>
     </div>
