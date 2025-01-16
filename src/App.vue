@@ -8,6 +8,7 @@
   <products/>
   <cta/>
   <galeri/>
+  <cta2/>
   <hormat/>
   <testi/>
   <maps/>
