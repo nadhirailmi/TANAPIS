@@ -1,6 +1,6 @@
 <template>
 
-    <div class="p-8 md:p-14">
+    <div class="p-8 md:p-14 rounded-[5px]">
 
         <div class="bg-center-bottom bg-no-repeat mb-8 md:bg-contain bg-[url('/public/assets/bg-cta.png')] rounded-[5px] p-10 text-white flex md:w-[690px] lg:w-[952px] mx-auto justify-between">
 
