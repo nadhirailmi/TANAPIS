@@ -9,9 +9,13 @@
 
             <div class="flex justify-center md:justify-start">
 
-                <span class="bg-primary2 md:text-base text-sm mt-1 px-2 py-2 md:px-3 font-semibold rounded-md hover:bg-white hover:text-primary2 border-2 border-primary2 transition-all cursor-pointer">0811-4733-332</span>
-
-                <span class="bg-primary2 md:text-base text-sm ml-2 mt-1 px-2 py-2 md:px-3 font-semibold rounded-md hover:bg-white hover:text-primary2 border-2 border-primary2 transition-all cursor-pointer">0812-4546-3322</span>
+                <button class="bg-primary2 md:text-base text-sm mt-1 px-2 py-2 md:px-3 font-semibold rounded-md hover:bg-white hover:text-primary2 border-2 border-primary2 transition-all cursor-pointer">
+                    <a href="#">0811-4733-332</a>
+                </button>
+                
+                <button class="bg-primary2 md:text-base text-sm mt-1 px-2 py-2 md:px-3 font-semibold rounded-md hover:bg-white hover:text-primary2 border-2 border-primary2 transition-all cursor-pointer ml-2">
+                    <a href="#">0812-4546-3322</a>
+                </button>
 
             </div>
 

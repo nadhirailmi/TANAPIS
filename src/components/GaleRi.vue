@@ -1,5 +1,5 @@
 <template>
 
-    <h1>Galeri</h1>
+    <h1 id="galeri">Galeri</h1>
 
 </template>

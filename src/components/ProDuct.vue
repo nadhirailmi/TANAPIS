@@ -1,37 +1,171 @@
-    <template>
+<template>
+    <div class="px-8 md:px-14 py-10 text-center">
+        <h1 class="font-bold mb-2 md:text-2xl sm:text-xl text-lg cursor-default" id="produk">Produk Kami</h1>
+        <p class="cursor-default md:text-base sm:text-sm text-xs">
+            Adapun Produk yang di Tawarkan Oleh Perusahaan TANAPIS di antaranya adalah:
+        </p>
 
-        <div class="px-8 md:px-14 py-10 text-center">
-
-            <h1 class="font-bold mb-2 text-2xl" id="produk">Produk Kami</h1>
-            <p>
-                Adapun Produk yang di Tawarkan Oleh Perusahaan TANAPIS di antaranya adalah:
-            </p>
-
-            <div class="mb-4 mt-4">
-                <ul class="flex text-sm font-medium text-center w-full border-4 border-primary2" id="default-tab" data-tabs-toggle="#default-tab-content" role="tablist">
-                    <li class="w-full" role="presentation">
-                        <button class="inline-block p-4 w-full bg-primary1 hover:text-white hover:bg-primary2 transition-all text-white md:text-base text-xs" id="syariah-tab" data-tabs-target="#syariah" type="button" role="tab" aria-controls="syariah" aria-selected="false">Perumahan Syariah</button>
-                    </li>
-                    <li class="w-full" role="presentation">
-                        <button class="inline-block p-4 w-full bg-primary1 hover:text-white hover:bg-primary2 transition-all text-white md:text-base text-xs" id="subsidi-tab" data-tabs-target="#subsidi" type="button" role="tab" aria-controls="subsidi" aria-selected="false">Perumahan Subsidi</button>
-                    </li>
-                    <li class="w-full" role="presentation">
-                        <button class="inline-block p-4 w-full bg-primary1 hover:text-white hover:bg-primary2 transition-all text-white md:text-base text-xs" id="umum-tab" data-tabs-target="#umum" type="button" role="tab" aria-controls="umum" aria-selected="false">Perumahan Umum</button>
-                    </li>
-                </ul>
-            </div>
-            <div id="default-tab-content">
-                <div class="hidden p-4 rounded-lg bg-gray-50 dark:bg-gray-800" id="syariah" role="tabpanel" aria-labelledby="syariah-tab">
-                    <p class="text-sm text-gray-500 dark:text-gray-400">This is some placeholder content the <strong class="font-medium text-gray-800 dark:text-white">Profile tab's associated content</strong>. Clicking another tab will toggle the visibility of this one for the next. The tab JavaScript swaps classes to control the content visibility and styling.</p>
-                </div>
-                <div class="hidden p-4 rounded-lg bg-gray-50 dark:bg-gray-800" id="subsidi" role="tabpanel" aria-labelledby="subsidi-tab">
-                    <p class="text-sm text-gray-500 dark:text-gray-400">This is some placeholder content the <strong class="font-medium text-gray-800 dark:text-white">Dashboard tab's associated content</strong>. Clicking another tab will toggle the visibility of this one for the next. The tab JavaScript swaps classes to control the content visibility and styling.</p>
-                </div>
-                <div class="hidden p-4 rounded-lg bg-gray-50 dark:bg-gray-800" id="umum" role="tabpanel" aria-labelledby="umum-tab">
-                    <p class="text-sm text-gray-500 dark:text-gray-400">This is some placeholder content the <strong class="font-medium text-gray-800 dark:text-white">Settings tab's associated content</strong>. Clicking another tab will toggle the visibility of this one for the next. The tab JavaScript swaps classes to control the content visibility and styling.</p>
-                </div>
-            </div>
-
+        <div class="md:mb-4 mb-2 mt-2 md:mt-4">
+            <ul
+                class="flex text-sm font-medium text-center w-full border-4 border-primary2"
+                id="default-tab"
+                role="tablist"
+            >
+                <li class="w-full" role="presentation">
+                    <button
+                        class="inline-block p-4 w-full transition-all md:text-base text-xs"
+                        :class="activeTab === 'syariah' ? 'bg-primary2 text-white' : 'bg-primary1 text-white hover:bg-[#92CD55]'"
+                        id="syariah-tab"
+                        @click="setActiveTab('syariah')"
+                        type="button"
+                        role="tab"
+                        aria-controls="syariah"
+                        :aria-selected="activeTab === 'syariah'"
+                    >
+                        Perumahan Syariah
+                    </button>
+                </li>
+                <li class="w-full" role="presentation">
+                    <button
+                        class="inline-block p-4 w-full transition-all md:text-base text-xs"
+                        :class="activeTab === 'subsidi' ? 'bg-primary2 text-white' : 'bg-primary1 text-white hover:bg-[#92CD55]'"
+                        id="subsidi-tab"
+                        @click="setActiveTab('subsidi')"
+                        type="button"
+                        role="tab"
+                        aria-controls="subsidi"
+                        :aria-selected="activeTab === 'subsidi'"
+                    >
+                        Perumahan Subsidi
+                    </button>
+                </li>
+                <li class="w-full" role="presentation">
+                    <button
+                        class="inline-block p-4 w-full transition-all md:text-base text-xs"
+                        :class="activeTab === 'umum' ? 'bg-primary2 text-white' : 'bg-primary1 text-white hover:bg-[#92CD55]'"
+                        id="umum-tab"
+                        @click="setActiveTab('umum')"
+                        type="button"
+                        role="tab"
+                        aria-controls="umum"
+                        :aria-selected="activeTab === 'umum'"
+                    >
+                        Perumahan Umum
+                    </button>
+                </li>
+            </ul>
         </div>
+        <div id="default-tab-content">
+            <div
+                v-show="activeTab === 'syariah'"
+                class="p-4 text-start md:flex"
+                id="syariah"
+                role="tabpanel"
+            >
+                <div class="md:w-[25%] mx-2">
+                    <h6 class="md:text-2xl sm:text-xl text-base font-bold cursor-default">Bukit Shafa Residence</h6>
+                    <p class="cursor-default md:text-base sm:text-sm text-xs md:mb-0 mb-2">
+                        Perumahan eksklusif di Kota Makassar yang cantik dan berkelas, berlokasi strategis di kawasan Daya
+                    </p>
+                </div>
 
-    </template>
+                <div class="flex md:w-[75%]">
+
+                    <div class="w-[34%] md:mx-2 mx-1">
+                        <img src="/public/assets/ayesha-flyer.jpg" alt="" class="rounded-[5px]">
+                        <h5 class="md:text-lg text-sm font-bold cursor-default">
+                            Cluster Ayesha
+                        </h5>
+                        <div class="flex">
+                            <img src="/public/assets/icon-wc.avif" alt="icon wc" class="w-[10%]">
+                            <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">3 Kamar Mandi</p>
+                        </div>
+                        <div class="flex">
+                            <img src="/public/assets/icon-turu.avif" alt="icon wc" class="w-[10%]">
+                            <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">3 Kamar Tidur</p>
+                        </div>
+                        <div class="flex">
+                            <img src="/public/assets/icon-car.png" alt="icon wc" class="w-[10%]">
+                            <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Garasi</p>
+                        </div>
+                    </div>
+
+                    <div class="w-[34%] md:mx-2">
+                        <img src="/public/assets/auliyah-flyer.jpg" alt="" class="rounded-[5px]">
+                        <h5 class="md:text-lg text-sm font-bold cursor-default">
+                            Cluster Auliyah
+                        </h5>
+                        <div class="flex">
+                            <img src="/public/assets/icon-wc.avif" alt="icon wc" class="w-[10%]">
+                            <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Kamar Mandi</p>
+                        </div>
+                        <div class="flex">
+                            <img src="/public/assets/icon-turu.avif" alt="icon wc" class="w-[10%]">
+                            <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Kamar Tidur</p>
+                        </div>
+                        <div class="flex">
+                            <img src="/public/assets/icon-car.png" alt="icon wc" class="w-[10%]">
+                            <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Garasi</p>
+                        </div>
+                    </div>
+
+                    <div class="w-[34%] md:mx-2 mx-1">
+                        <img src="/public/assets/fatinah-flyer.jpg" alt="" class="rounded-[5px]">
+                        <h5 class="md:text-lg text-sm font-bold cursor-default">
+                            Cluster Fatinah
+                        </h5>
+                        <div class="flex">
+                            <img src="/public/assets/icon-wc.avif" alt="icon wc" class="w-[10%]">
+                            <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Kamar Mandi</p>
+                        </div>
+                        <div class="flex">
+                            <img src="/public/assets/icon-turu.avif" alt="icon wc" class="w-[10%]">
+                            <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">2 Kamar Tidur</p>
+                        </div>
+                        <div class="flex">
+                            <img src="/public/assets/icon-car.png" alt="icon wc" class="w-[10%]">
+                            <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Garasi</p>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+            <div
+                v-show="activeTab === 'subsidi'"
+                class="p-4 rounded-lg bg-gray-50 dark:bg-gray-800"
+                id="subsidi"
+                role="tabpanel"
+            >
+                <p class="text-sm text-gray-500 dark:text-gray-400">
+                    Konten untuk Perumahan Subsidi.
+                </p>
+            </div>
+            <div
+                v-show="activeTab === 'umum'"
+                class="p-4 rounded-lg bg-gray-50 dark:bg-gray-800"
+                id="umum"
+                role="tabpanel"
+            >
+                <p class="text-sm text-gray-500 dark:text-gray-400">
+                    Konten untuk Perumahan Umum.
+                </p>
+            </div>
+        </div>
+    </div>
+</template>
+
+<script>
+import { ref } from 'vue';
+
+export default {
+    setup() {
+        const activeTab = ref('syariah'); // Default active tab
+        const setActiveTab = (tab) => {
+            activeTab.value = tab;
+        };
+
+        return { activeTab, setActiveTab };
+    },
+};
+</script>

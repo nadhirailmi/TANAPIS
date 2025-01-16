@@ -49,7 +49,7 @@
 
                     <div class="bg-primary2 px-4 py-4 w-[50%]">
 
-                        <img src="/public/assets/mdi_eye.png" alt="" class="mx-auto md:w-20 w-10 h-10 md:h-20">
+                        <img src="/public/assets/icon-mata.png" alt="" class="mx-auto md:w-20 w-10 h-10 md:h-20">
 
                     </div>
 

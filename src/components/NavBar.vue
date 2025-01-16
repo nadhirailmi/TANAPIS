@@ -18,14 +18,17 @@
             <a @click="scrollTo('top')" class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-primary2 md:p-0 dark:text-white md:dark:hover:text-[#FFB100] dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent transition-all duration-200 cursor-pointer" aria-current="page">Beranda</a>
             </li>
             <li>
-            <a @click="scrollTo('produk')" class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-primary2 md:p-0 dark:text-white md:dark:hover:text-[#FFB100] dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent transition-all duration-200 cursor-pointer">Produk Kami</a>
-            </li>
-            <li>
             <a @click="scrollTo('layan')" class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-primary2 md:p-0 dark:text-white md:dark:hover:text-[#FFB100] dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent transition-all duration-200 cursor-pointer">Layanan</a>
             </li>
             <li>
-            <a @click="scrollTo('inves')" class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-primary2 md:p-0 dark:text-white md:dark:hover:text-[#FFB100] dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent transition-all duration-200 cursor-pointer">Investasi</a>
+            <a @click="scrollTo('produk')" class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-primary2 md:p-0 dark:text-white md:dark:hover:text-[#FFB100] dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent transition-all duration-200 cursor-pointer">Produk Kami</a>
             </li>
+            <li>
+            <a @click="scrollTo('galeri')" class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-primary2 md:p-0 dark:text-white md:dark:hover:text-[#FFB100] dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent transition-all duration-200 cursor-pointer">Galeri</a>
+            </li>
+            <!-- <li>
+            <a @click="scrollTo('inves')" class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-primary2 md:p-0 dark:text-white md:dark:hover:text-[#FFB100] dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent transition-all duration-200 cursor-pointer">Investasi</a>
+            </li> -->
             <li>
             <a @click="scrollTo('kontak')" class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-primary2 md:p-0 dark:text-white md:dark:hover:text-[#FFB100] dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent transition-all duration-200 cursor-pointer">Kontak</a>
             </li>
