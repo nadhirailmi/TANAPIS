@@ -4,8 +4,8 @@
 
         <div class="sm:flex w-full justify-between text-white text-center">
 
-            <h6>SELALU BUKA! Kami ada 24/7</h6>
-            <h6>KONTAK SEKARANG!  0811-4733-332</h6>
+            <h6 class="cursor-default">SELALU BUKA! Kami ada 24/7</h6>
+            <h6 class="cursor-default">KONTAK SEKARANG!  0811-4733-332</h6>
 
         </div>
 

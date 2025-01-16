@@ -65,7 +65,7 @@
 
             <div id="default-carousel" class="relative w-full" data-carousel="slide">
                 <!-- Carousel wrapper -->
-                <div class="relative h-56 overflow-hidden rounded-lg md:h-96">
+                <div class="relative h-60 overflow-hidden rounded-lg md:h-96">
                     <!-- Item 1 -->
                     <div class="hidden duration-700 ease-in-out" data-carousel-item>
                         <div class="text-white w-36 md:mx-0 mx-auto md:my-2">

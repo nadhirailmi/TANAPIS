@@ -3,13 +3,14 @@
   <navbar/>
   <hero/>
   <about/>
-  <daftar/>
-  <produk/>
-  <anu/>
-  <testi/>
-  <inves/>
-  <ayo/>
+  <service/>
+  <product/>
+  <products/>
   <cta/>
+  <galeri/>
+  <cta2/>
+  <hormat/>
+  <testi/>
   <maps/>
   <foter/>
   <btn/>
@@ -19,16 +20,18 @@
 import topnav from './components/TopNav.vue';
 import navbar from './components/NavBar.vue';
 import hero from './components/HeRo.vue';
-import produk from './components/ProdukUs.vue';
-import anu from './components/AnuNya.vue';
-import ayo from './components/AyO.vue';
+import product from './components/ProDuct.vue';
+import products from './components/ProductS.vue';
+import cta2 from './components/CtA2.vue';
 import maps from './components/MaPs.vue';
 import foter from './components/FooTer.vue';
 import inves from './components/InveSa.vue';
 import about from './components/AboutUs.vue';
 import btn from './components/ButTon.vue';
-import daftar from './components/DafTar.vue';
+import service from './components/SerVice.vue';
 import testi from './components/TesTi.vue';
+import hormat from './components/HorMat.vue';
+import galeri from './components/GaleRi.vue'; 
 import cta from './components/CtA.vue';
 export default {
   name:"app",
@@ -36,16 +39,18 @@ export default {
     topnav,
     navbar,
     hero,
-    daftar,
-    produk,
-    anu,
-    ayo,
+    service,
+    product,
+    products,
+    cta2,
     maps,
     foter,
     inves,
     about,
     btn,
     testi,
+    hormat,
+    galeri,
     cta,
   }
 }
