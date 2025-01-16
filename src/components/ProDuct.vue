@@ -58,74 +58,117 @@
         <div id="default-tab-content">
             <div
                 v-show="activeTab === 'syariah'"
-                class="p-4 text-start md:flex"
+                class="p-4 text-start"
                 id="syariah"
                 role="tabpanel"
             >
-                <div class="md:w-[25%] mx-2">
-                    <h6 class="md:text-2xl sm:text-xl text-base font-bold cursor-default">Bukit Shafa Residence</h6>
-                    <p class="cursor-default md:text-base sm:text-sm text-xs md:mb-0 mb-2">
-                        Perumahan eksklusif di Kota Makassar yang cantik dan berkelas, berlokasi strategis di kawasan Daya
-                    </p>
+
+                <div class="md:flex">
+
+                    <div class="md:w-[25%] sm:mx-2">
+                        <h6 class="md:text-2xl sm:text-xl text-base font-bold cursor-default">Bukit Shafa Residence</h6>
+                        <p class="cursor-default md:text-base sm:text-sm text-xs md:mb-0 mb-2">
+                            Perumahan eksklusif di Kota Makassar yang cantik dan berkelas, berlokasi strategis di kawasan Daya
+                        </p>
+                    </div>
+
+                    <div class="flex md:w-[75%]">
+
+                        <div class="w-[34%] md:mx-2 mr-1">
+                            <img src="/public/assets/ayesha-flyer.jpg" alt="" class="rounded-[5px]">
+                            <h5 class="md:text-lg text-sm font-bold cursor-default">
+                                Cluster Ayesha
+                            </h5>
+                            <div class="flex">
+                                <img src="/public/assets/icon-wc.avif" alt="icon wc" class="w-[10%]">
+                                <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">3 Kamar Mandi</p>
+                            </div>
+                            <div class="flex">
+                                <img src="/public/assets/icon-turu.avif" alt="icon wc" class="w-[10%]">
+                                <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">3 Kamar Tidur</p>
+                            </div>
+                            <div class="flex">
+                                <img src="/public/assets/icon-car.png" alt="icon wc" class="w-[10%]">
+                                <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Garasi</p>
+                            </div>
+                        </div>
+
+                        <div class="w-[34%] md:mx-2">
+                            <img src="/public/assets/auliyah-flyer.jpg" alt="" class="rounded-[5px]">
+                            <h5 class="md:text-lg text-sm font-bold cursor-default">
+                                Cluster Auliyah
+                            </h5>
+                            <div class="flex">
+                                <img src="/public/assets/icon-wc.avif" alt="icon wc" class="w-[10%]">
+                                <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Kamar Mandi</p>
+                            </div>
+                            <div class="flex">
+                                <img src="/public/assets/icon-turu.avif" alt="icon wc" class="w-[10%]">
+                                <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Kamar Tidur</p>
+                            </div>
+                            <div class="flex">
+                                <img src="/public/assets/icon-car.png" alt="icon wc" class="w-[10%]">
+                                <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Garasi</p>
+                            </div>
+                        </div>
+
+                        <div class="w-[34%] md:mx-2 ml-1">
+                            <img src="/public/assets/fatinah-flyer.jpg" alt="" class="rounded-[5px]">
+                            <h5 class="md:text-lg text-sm font-bold cursor-default">
+                                Cluster Fatinah
+                            </h5>
+                            <div class="flex">
+                                <img src="/public/assets/icon-wc.avif" alt="icon wc" class="w-[10%]">
+                                <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Kamar Mandi</p>
+                            </div>
+                            <div class="flex">
+                                <img src="/public/assets/icon-turu.avif" alt="icon wc" class="w-[10%]">
+                                <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">2 Kamar Tidur</p>
+                            </div>
+                            <div class="flex">
+                                <img src="/public/assets/icon-car.png" alt="icon wc" class="w-[10%]">
+                                <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Garasi</p>
+                            </div>
+                        </div>
+
+                    </div>
+
                 </div>
 
-                <div class="flex md:w-[75%]">
+                <div class="md:flex mt-4">
 
-                    <div class="w-[34%] md:mx-2 mx-1">
-                        <img src="/public/assets/ayesha-flyer.jpg" alt="" class="rounded-[5px]">
-                        <h5 class="md:text-lg text-sm font-bold cursor-default">
+                    <div class="md:w-[25%] md:mx-2">
+
+                        <h6 class="md:text-2xl sm:text-xl text-base font-bold cursor-default">Akademika Townhouse</h6>
+                        <p class="cursor-default md:text-base sm:text-sm text-xs md:mb-0 mb-2">
+                            Perumahan dengan Hunian exlusif yang mempesona berada di Jalan Poros Malino
+                        </p>
+
+                        <h6 class="md:text-xl sm:text-lg text-base font-bold cursor-default">
                             Cluster Ayesha
-                        </h5>
-                        <div class="flex">
-                            <img src="/public/assets/icon-wc.avif" alt="icon wc" class="w-[10%]">
-                            <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">3 Kamar Mandi</p>
+                        </h6>
+                        <div class=" md:mx-2 ml-1">
+                            <div class="flex">
+                                <img src="/public/assets/icon-wc.avif" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
+                                <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Kamar Mandi</p>
+                            </div>
+                            <div class="flex">
+                                <img src="/public/assets/icon-turu.avif" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
+                                <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">2 Kamar Tidur</p>
+                            </div>
+                            <div class="flex">
+                                <img src="/public/assets/icon-car.png" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
+                                <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Garasi</p>
+                            </div>
                         </div>
-                        <div class="flex">
-                            <img src="/public/assets/icon-turu.avif" alt="icon wc" class="w-[10%]">
-                            <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">3 Kamar Tidur</p>
-                        </div>
-                        <div class="flex">
-                            <img src="/public/assets/icon-car.png" alt="icon wc" class="w-[10%]">
-                            <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Garasi</p>
-                        </div>
+
                     </div>
 
-                    <div class="w-[34%] md:mx-2">
-                        <img src="/public/assets/auliyah-flyer.jpg" alt="" class="rounded-[5px]">
-                        <h5 class="md:text-lg text-sm font-bold cursor-default">
-                            Cluster Auliyah
-                        </h5>
-                        <div class="flex">
-                            <img src="/public/assets/icon-wc.avif" alt="icon wc" class="w-[10%]">
-                            <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Kamar Mandi</p>
-                        </div>
-                        <div class="flex">
-                            <img src="/public/assets/icon-turu.avif" alt="icon wc" class="w-[10%]">
-                            <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Kamar Tidur</p>
-                        </div>
-                        <div class="flex">
-                            <img src="/public/assets/icon-car.png" alt="icon wc" class="w-[10%]">
-                            <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Garasi</p>
-                        </div>
-                    </div>
+                    <div class="flex mt-4 md:w-[50%]">
 
-                    <div class="w-[34%] md:mx-2 mx-1">
-                        <img src="/public/assets/fatinah-flyer.jpg" alt="" class="rounded-[5px]">
-                        <h5 class="md:text-lg text-sm font-bold cursor-default">
-                            Cluster Fatinah
-                        </h5>
-                        <div class="flex">
-                            <img src="/public/assets/icon-wc.avif" alt="icon wc" class="w-[10%]">
-                            <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Kamar Mandi</p>
-                        </div>
-                        <div class="flex">
-                            <img src="/public/assets/icon-turu.avif" alt="icon wc" class="w-[10%]">
-                            <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">2 Kamar Tidur</p>
-                        </div>
-                        <div class="flex">
-                            <img src="/public/assets/icon-car.png" alt="icon wc" class="w-[10%]">
-                            <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Garasi</p>
-                        </div>
+                        <img src="/public/assets/akademika-flyer-1.jpg" alt="akademika1" class="md:mx-2 mx-1 w-[50%]">
+                        <img src="/public/assets/akademika-flyer-2.jpg" alt="akademika2" class="md:mx-2 mx-1 w-[50%]">
+
                     </div>
 
                 </div>
