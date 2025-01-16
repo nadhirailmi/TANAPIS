@@ -1,6 +1,6 @@
 <template>
 
-    <div class="text-center md:text-start px-8 md:px-14 md:flex py-10 text-white bg-center-bottom bg-no-repeat bg-cover md:bg-cover bg-[url('/public/assets/bg2.avif')] bg-blend-multiply cursor-default">
+    <div id="layan" class="text-center md:text-start px-8 md:px-14 md:flex py-10 text-white bg-center-bottom bg-no-repeat bg-cover md:bg-cover bg-[url('/public/assets/bg2.avif')] bg-blend-multiply cursor-default">
 
         <div class="md:w-[50%] md:mr-2 text-start">
 
