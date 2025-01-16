@@ -146,7 +146,7 @@
                         </p>
 
                         <h6 class="md:text-xl sm:text-lg text-base font-bold cursor-default">
-                            Cluster Ayesha
+                            Features
                         </h6>
                         <div class=" md:mx-2 ml-1">
                             <div class="flex">
@@ -445,7 +445,7 @@
                 id="umum"
                 role="tabpanel"
             >
-                <div class="md:flex mt-4 ">
+                <div class="md:flex sm:mt-4 ">
 
                     <div class="md:w-[25%] md:mx-2 mt-2">
 
