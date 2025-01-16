@@ -52,7 +52,7 @@
 
         <!-- Lihat Lebih Banyak Button -->
         <h1 
-            class="my-4 font-bold cursor-pointer text-primary1 hover:text-primary2 transition-colors"
+            class="my-10 font-bold cursor-pointer text-primary1 hover:text-primary2 transition-colors"
             v-if="!showMore"
             @click="toggleMore"
         >
@@ -111,7 +111,7 @@
                 </div>
 
                 <!-- Tutup Button -->
-                <div class="col-span-2 md:col-span-4 text-center mt-4">
+                <div class="col-span-2 md:col-span-4 text-center mt-4 mb-10">
                     <h1 
                         class="font-bold cursor-pointer text-primary1 hover:text-primary2 transition-colors"
                         @click="toggleMore"
