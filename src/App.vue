@@ -6,6 +6,7 @@
   <service/>
   <product/>
   <products/>
+  <products2/>
   <cta/>
   <galeri/>
   <cta2/>
@@ -33,6 +34,7 @@ import testi from './components/TesTi.vue';
 import hormat from './components/HorMat.vue';
 import galeri from './components/GaleRi.vue'; 
 import cta from './components/CtA.vue';
+import products2 from './components/ProdUcts2.vue';
 export default {
   name:"app",
   components:{
@@ -52,6 +54,7 @@ export default {
     hormat,
     galeri,
     cta,
+    products2,
   }
 }
 import { onMounted } from 'vue'
