@@ -21,7 +21,7 @@
         </div>
     </div>
     <div class="text-white bg-black py-1 px-8 md:px-14 text-[10px] md:text-sm cursor-default md:text-start text-center">
-        <p>Copyright © 2024 Tanapis | Powered by Tanapis</p>
+        <p>Copyright © 2024 Tanapis | Powered by Celebes Digital</p>
     </div>
 
 </template>
