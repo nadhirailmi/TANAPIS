@@ -8,7 +8,7 @@
 
                 <h4 class="lg:text-4xl text-xl font-semibold cursor-default">Kami juga bisa mencarikan tanah!</h4>
                 <p class="lg:my-4 md:my-2 my-4 cursor-default lg:text-base text-sm">
-                    Rumah sesuai Harapan melalui  Perusahaan kami CV. Tata Niaga Ambisigo Properti Syariah ( Perusahaan TANAPIS)
+                    Tanah sesuai Harapan melalui  Perusahaan kami CV. Tata Niaga Ambisigo Properti Syariah ( Perusahaan TANAPIS)
                 </p>
 
                 

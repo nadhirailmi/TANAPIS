@@ -5,7 +5,7 @@
         <div class="text-white text-center md:text-left py-40 mx-11 md:w-[50%]">
 
             <h1 class="font-bold md:text-5xl text-3xl cursor-default">CV. Tata Niaga Ambisigo Properti Syariah  <br>(Perusahaan TANAPIS)</h1>
-            <p class="md:text-lg my-4 cursor-default">AYO..! GABUNG..! BERSAMA TANAPIS AGENCE PERUMAHAN SYARIAH BERKAH SEJAK AWAL</p>
+            <p class="md:text-lg my-4 cursor-default">AYO..! GABUNG..! BERSAMA TANAPIS AGEN PERUMAHAN SYARIAH BERKAH SEJAK AWAL</p>
 
             <div class="flex justify-center md:justify-start">
 
