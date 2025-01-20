@@ -67,46 +67,46 @@
             >
                 <div class="grid gap-4">
                     <div>
-                        <img class="h-auto max-w-full rounded-[5px]" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image.jpg" alt="">
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/rumah-11.png" alt="">
                     </div>
                     <div>
-                        <img class="h-auto max-w-full rounded-[5px]" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-1.jpg" alt="">
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/tanah-5.jpg" alt="">
                     </div>
                     <div>
-                        <img class="h-auto max-w-full rounded-[5px]" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-2.jpg" alt="">
-                    </div>
-                </div>
-                <div class="grid gap-4">
-                    <div>
-                        <img class="h-auto max-w-full rounded-[5px]" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-3.jpg" alt="">
-                    </div>
-                    <div>
-                        <img class="h-auto max-w-full rounded-[5px]" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-4.jpg" alt="">
-                    </div>
-                    <div>
-                        <img class="h-auto max-w-full rounded-[5px]" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-5.jpg" alt="">
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/nyamanna.jpg" alt="">
                     </div>
                 </div>
                 <div class="grid gap-4">
                     <div>
-                        <img class="h-auto max-w-full rounded-[5px]" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-6.jpg" alt="">
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/rumah-10.jpg" alt="">
                     </div>
                     <div>
-                        <img class="h-auto max-w-full rounded-[5px]" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-7.jpg" alt="">
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/tanah-3.jpg" alt="">
                     </div>
                     <div>
-                        <img class="h-auto max-w-full rounded-[5px]" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-8.jpg" alt="">
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/tanah-6.jpg" alt="">
                     </div>
                 </div>
                 <div class="grid gap-4">
                     <div>
-                        <img class="h-auto max-w-full rounded-[5px]" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-9.jpg" alt="">
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/rumah-12.png" alt="">
                     </div>
                     <div>
-                        <img class="h-auto max-w-full rounded-[5px]" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-10.jpg" alt="">
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/rumah-5.jpg" alt="">
                     </div>
                     <div>
-                        <img class="h-auto max-w-full rounded-[5px]" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-11.jpg" alt="">
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/rumah-7.jpg" alt="">
+                    </div>
+                </div>
+                <div class="grid gap-4">
+                    <div>
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/rumah-9.jpg" alt="">
+                    </div>
+                    <div>
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/rumah-8.png" alt="">
+                    </div>
+                    <div>
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/rumah-6.jpg" alt="">
                     </div>
                 </div>
 
