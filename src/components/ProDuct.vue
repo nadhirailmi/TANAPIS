@@ -449,6 +449,44 @@
 
                     <div class="md:w-[25%] md:mx-2 mt-2">
 
+                        <h6 class="md:text-2xl sm:text-xl text-base font-bold cursor-default">Unit Rumah Tipe 400 M2</h6>
+                        <p class="cursor-default md:text-base sm:text-sm text-xs md:mb-0 mb-2">
+                            Terletak di Sunggu Minasa, Gowa, terletak di pusat kota Sunggu Minasa, dekat dengan sekolah, masjid, kantor camat Somba Opu, kantor Pemda Gowa, kantor Kamenag Gowa
+                        </p>
+
+                        <h6 class="md:text-xl sm:text-lg text-base font-bold cursor-default">
+                            Features
+                        </h6>
+                        <div class=" md:mx-2 ml-1">
+                            <div class="flex">
+                                <img src="/public/assets/icon-wc.avif" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
+                                <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">3 Kamar Mandi</p>
+                            </div>
+                            <div class="flex">
+                                <img src="/public/assets/icon-turu.avif" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
+                                <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">3 Kamar Tidur</p>
+                            </div>
+                            <div class="flex">
+                                <img src="/public/assets/icon-car.png" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
+                                <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">10 Mobil</p>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="flex mt-4 md:w-[75%]">
+
+                        <img src="/public/assets/RUMAH-BARU.jpg" alt="akademika1" class="md:mx-2 mx-1 md:w-[34%] w-[50%] object-cover rounded-[5px]">
+                        <img src="/public/assets/RUMAH-BARU-1.jpg" alt="akademika2" class="md:mx-2 mx-1 md:w-[34%] w-[50%] object-cover rounded-[5px]">
+
+                    </div>
+
+                </div>
+
+                <div class="md:flex sm:mt-4 ">
+
+                    <div class="md:w-[25%] md:mx-2 mt-2">
+
                         <h6 class="md:text-2xl sm:text-xl text-base font-bold cursor-default">Perumahan Mega Rezky</h6>
                         <p class="cursor-default md:text-base sm:text-sm text-xs md:mb-0 mb-2">
                             Terletak di Samata, Gowa, dekat dengan pusat pendidikan dan kesehatan

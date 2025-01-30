@@ -109,6 +109,48 @@
                         <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/rumah-6.jpg" alt="">
                     </div>
                 </div>
+            </div>
+        </transition>
+
+        <!-- BATCH 3 -->
+
+        <transition name="fade-slide">
+            <div 
+                v-if="showMore"
+                class="grid grid-cols-2 md:grid-cols-4 gap-4 mt-4"
+            >
+                <div class="grid gap-4">
+                    <div>
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/RUMAH-OUTSIDE-1.png" alt="">
+                    </div>
+                    <div>
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/DALAM-RUMAH-4.jpg" alt="">
+                    </div>
+                </div>
+                <div class="grid gap-4">
+                    <div>
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/RUMAH-OUTSIDE.jpg" alt="">
+                    </div>
+                    <div>
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/DALAM-RUMAH-3.jpg" alt="">
+                    </div>
+                </div>
+                <div class="grid gap-4">
+                    <div>
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/DALAM-RUMAH.jpg" alt="">
+                    </div>
+                    <div>
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/DALAM-RUMAH-2.jpg" alt="">
+                    </div>
+                </div>
+                <div class="grid gap-4">
+                    <div>
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/RUMAH-BARU.jpg" alt="">
+                    </div>
+                    <div>
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/DALAM-RUMAH-1.jpg" alt="">
+                    </div>
+                </div>
 
                 <!-- Tutup Button -->
                 <div class="col-span-2 md:col-span-4 text-center mt-4 mb-10">
@@ -121,6 +163,7 @@
                 </div>
             </div>
         </transition>
+
     </div>
 </template>
 
