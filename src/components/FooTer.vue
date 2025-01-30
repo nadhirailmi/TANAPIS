@@ -2,7 +2,7 @@
     
     <div class="sm:text-left text-center sm:flex justify-between bg-black text-white border-b-2 px-8 md:px-14 py-10" id="kontak">
         <div class="sm:w-[34%]">
-            <img src="/public/assets/Untitled design (2).avif" alt="logo tanapis" class="md:w-10 w-[30%] h-[30%] md:h-10 bg-white rounded-sm mx-auto sm:mx-0 md:mb-0 mb-2">
+            <img src="/public/assets/Untitled design (2).webp" alt="logo tanapis" class="md:w-10 w-[30%] h-[30%] md:h-10 bg-white rounded-sm mx-auto sm:mx-0 md:mb-0 mb-2">
             <p class="cursor-default md:text-base text-[10px] md:mb-0 mb-2">
                 Perumahan Cluster Villa Nyamanna residence
                 Jln. Hamzah Daeng Tompo No 136 Kel Bontomanai Kec Bontomarannu kab. Gowa Sulawesi Selatan Indonesia.

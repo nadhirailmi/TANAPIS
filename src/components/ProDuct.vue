@@ -76,58 +76,58 @@
                     <div class="flex md:w-[75%]">
 
                         <div class="w-[34%] md:mx-2 mr-1">
-                            <img src="/public/assets/ayesha-flyer.jpg" alt="" class="rounded-[5px] object-cover">
+                            <img src="/public/assets/ayesha-flyer.webp" alt="" class="rounded-[5px] object-cover">
                             <h5 class="md:text-lg text-sm font-bold cursor-default">
                                 Cluster Ayesha
                             </h5>
                             <div class="flex">
-                                <img src="/public/assets/icon-wc.avif" alt="icon wc" class="w-[10%]">
+                                <img src="/public/assets/icon-wc.webp" alt="icon wc" class="w-[10%]">
                                 <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">3 Kamar Mandi</p>
                             </div>
                             <div class="flex">
-                                <img src="/public/assets/icon-turu.avif" alt="icon wc" class="w-[10%]">
+                                <img src="/public/assets/icon-turu.webp" alt="icon wc" class="w-[10%]">
                                 <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">3 Kamar Tidur</p>
                             </div>
                             <div class="flex">
-                                <img src="/public/assets/icon-car.png" alt="icon wc" class="w-[10%]">
+                                <img src="/public/assets/icon-car.webp" alt="icon wc" class="w-[10%]">
                                 <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Mobil</p>
                             </div>
                         </div>
 
                         <div class="w-[34%] md:mx-2">
-                            <img src="/public/assets/auliyah-flyer.jpg" alt="" class="rounded-[5px] object-cover">
+                            <img src="/public/assets/auliyah-flyer.webp" alt="" class="rounded-[5px] object-cover">
                             <h5 class="md:text-lg text-sm font-bold cursor-default">
                                 Cluster Auliyah
                             </h5>
                             <div class="flex">
-                                <img src="/public/assets/icon-wc.avif" alt="icon wc" class="w-[10%]">
+                                <img src="/public/assets/icon-wc.webp" alt="icon wc" class="w-[10%]">
                                 <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Kamar Mandi</p>
                             </div>
                             <div class="flex">
-                                <img src="/public/assets/icon-turu.avif" alt="icon wc" class="w-[10%]">
+                                <img src="/public/assets/icon-turu.webp" alt="icon wc" class="w-[10%]">
                                 <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Kamar Tidur</p>
                             </div>
                             <div class="flex">
-                                <img src="/public/assets/icon-car.png" alt="icon wc" class="w-[10%]">
+                                <img src="/public/assets/icon-car.webp" alt="icon wc" class="w-[10%]">
                                 <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Mobil</p>
                             </div>
                         </div>
 
                         <div class="w-[34%] md:mx-2 ml-1">
-                            <img src="/public/assets/fatinah-flyer.jpg" alt="" class="rounded-[5px] object-cover">
+                            <img src="/public/assets/fatinah-flyer.webp" alt="" class="rounded-[5px] object-cover">
                             <h5 class="md:text-lg text-sm font-bold cursor-default">
                                 Cluster Fatinah
                             </h5>
                             <div class="flex">
-                                <img src="/public/assets/icon-wc.avif" alt="icon wc" class="w-[10%]">
+                                <img src="/public/assets/icon-wc.webp" alt="icon wc" class="w-[10%]">
                                 <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Kamar Mandi</p>
                             </div>
                             <div class="flex">
-                                <img src="/public/assets/icon-turu.avif" alt="icon wc" class="w-[10%]">
+                                <img src="/public/assets/icon-turu.webp" alt="icon wc" class="w-[10%]">
                                 <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">2 Kamar Tidur</p>
                             </div>
                             <div class="flex">
-                                <img src="/public/assets/icon-car.png" alt="icon wc" class="w-[10%]">
+                                <img src="/public/assets/icon-car.webp" alt="icon wc" class="w-[10%]">
                                 <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Mobil</p>
                             </div>
                         </div>
@@ -150,15 +150,15 @@
                         </h6>
                         <div class=" md:mx-2 ml-1">
                             <div class="flex">
-                                <img src="/public/assets/icon-wc.avif" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
+                                <img src="/public/assets/icon-wc.webp" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
                                 <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Kamar Mandi</p>
                             </div>
                             <div class="flex">
-                                <img src="/public/assets/icon-turu.avif" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
+                                <img src="/public/assets/icon-turu.webp" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
                                 <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">2 Kamar Tidur</p>
                             </div>
                             <div class="flex">
-                                <img src="/public/assets/icon-car.png" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
+                                <img src="/public/assets/icon-car.webp" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
                                 <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Mobil</p>
                             </div>
                         </div>
@@ -167,8 +167,8 @@
 
                     <div class="flex mt-4 md:w-[75%]">
 
-                        <img src="/public/assets/akademika-flyer-1.jpg" alt="akademika1" class="md:mx-2 mx-1 md:w-[34%] w-[50%] object-cover rounded-[5px]">
-                        <img src="/public/assets/akademika-flyer-2.jpg" alt="akademika2" class="md:mx-2 mx-1 md:w-[34%] w-[50%] object-cover rounded-[5px]">
+                        <img src="/public/assets/akademika-flyer-1.webp" alt="akademika1" class="md:mx-2 mx-1 md:w-[34%] w-[50%] object-cover rounded-[5px]">
+                        <img src="/public/assets/akademika-flyer-2.webp" alt="akademika2" class="md:mx-2 mx-1 md:w-[34%] w-[50%] object-cover rounded-[5px]">
 
                     </div>
 
@@ -196,58 +196,58 @@
                         <div class="flex">
 
                             <div class="w-[34%] md:mx-2 mr-1">
-                                <img src="/public/assets/subsidi.png" alt="" class="rounded-[5px] object-cover">
+                                <img src="/public/assets/subsidi.webp" alt="" class="rounded-[5px] object-cover">
                                 <h5 class="md:text-lg text-sm font-bold cursor-default">
                                     Type 28/60
                                 </h5>
                                 <div class="flex">
-                                    <img src="/public/assets/icon-wc.avif" alt="icon wc" class="w-[10%]">
+                                    <img src="/public/assets/icon-wc.webp" alt="icon wc" class="w-[10%]">
                                     <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Kamar Mandi</p>
                                 </div>
                                 <div class="flex">
-                                    <img src="/public/assets/icon-turu.avif" alt="icon wc" class="w-[10%]">
+                                    <img src="/public/assets/icon-turu.webp" alt="icon wc" class="w-[10%]">
                                     <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">2 Kamar Tidur</p>
                                 </div>
                                 <div class="flex">
-                                    <img src="/public/assets/icon-car.png" alt="icon wc" class="w-[10%]">
+                                    <img src="/public/assets/icon-car.webp" alt="icon wc" class="w-[10%]">
                                     <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Mobil</p>
                                 </div>
                             </div>
 
                             <div class="w-[34%] md:mx-2">
-                                <img src="/public/assets/subsidi.png" alt="" class="rounded-[5px] object-cover">
+                                <img src="/public/assets/subsidi.webp" alt="" class="rounded-[5px] object-cover">
                                 <h5 class="md:text-lg text-sm font-bold cursor-default">
                                     Type 30/78
                                 </h5>
                                 <div class="flex">
-                                    <img src="/public/assets/icon-wc.avif" alt="icon wc" class="w-[10%]">
+                                    <img src="/public/assets/icon-wc.webp" alt="icon wc" class="w-[10%]">
                                     <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Kamar Mandi</p>
                                 </div>
                                 <div class="flex">
-                                    <img src="/public/assets/icon-turu.avif" alt="icon wc" class="w-[10%]">
+                                    <img src="/public/assets/icon-turu.webp" alt="icon wc" class="w-[10%]">
                                     <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">2 Kamar Tidur</p>
                                 </div>
                                 <div class="flex">
-                                    <img src="/public/assets/icon-car.png" alt="icon wc" class="w-[10%]">
+                                    <img src="/public/assets/icon-car.webp" alt="icon wc" class="w-[10%]">
                                     <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Mobil</p>
                                 </div>
                             </div>
 
                             <div class="w-[34%] md:mx-2 ml-1">
-                                <img src="/public/assets/subsidi.png" alt="" class="rounded-[5px] object-cover">
+                                <img src="/public/assets/subsidi.webp" alt="" class="rounded-[5px] object-cover">
                                 <h5 class="md:text-lg text-sm font-bold cursor-default">
                                     Type 32/72
                                 </h5>
                                 <div class="flex">
-                                    <img src="/public/assets/icon-wc.avif" alt="icon wc" class="w-[10%]">
+                                    <img src="/public/assets/icon-wc.webp" alt="icon wc" class="w-[10%]">
                                     <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Kamar Mandi</p>
                                 </div>
                                 <div class="flex">
-                                    <img src="/public/assets/icon-turu.avif" alt="icon wc" class="w-[10%]">
+                                    <img src="/public/assets/icon-turu.webp" alt="icon wc" class="w-[10%]">
                                     <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">2 Kamar Tidur</p>
                                 </div>
                                 <div class="flex">
-                                    <img src="/public/assets/icon-car.png" alt="icon wc" class="w-[10%]">
+                                    <img src="/public/assets/icon-car.webp" alt="icon wc" class="w-[10%]">
                                     <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Mobil</p>
                                 </div>
                             </div>
@@ -257,58 +257,58 @@
                         <div class="flex mt-4">
 
                             <div class="w-[34%] md:mx-2 mr-1">
-                                <img src="/public/assets/subsidi.png" alt="" class="rounded-[5px] object-cover">
+                                <img src="/public/assets/subsidi.webp" alt="" class="rounded-[5px] object-cover">
                                 <h5 class="md:text-lg text-sm font-bold cursor-default">
                                     Type 36/78
                                 </h5>
                                 <div class="flex">
-                                    <img src="/public/assets/icon-wc.avif" alt="icon wc" class="w-[10%]">
+                                    <img src="/public/assets/icon-wc.webp" alt="icon wc" class="w-[10%]">
                                     <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Kamar Mandi</p>
                                 </div>
                                 <div class="flex">
-                                    <img src="/public/assets/icon-turu.avif" alt="icon wc" class="w-[10%]">
+                                    <img src="/public/assets/icon-turu.webp" alt="icon wc" class="w-[10%]">
                                     <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">2 Kamar Tidur</p>
                                 </div>
                                 <div class="flex">
-                                    <img src="/public/assets/icon-car.png" alt="icon wc" class="w-[10%]">
+                                    <img src="/public/assets/icon-car.webp" alt="icon wc" class="w-[10%]">
                                     <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Mobil</p>
                                 </div>
                             </div>
 
                             <div class="w-[34%] md:mx-2">
-                                <img src="/public/assets/subsidi.png" alt="" class="rounded-[5px] object-cover">
+                                <img src="/public/assets/subsidi.webp" alt="" class="rounded-[5px] object-cover">
                                 <h5 class="md:text-lg text-sm font-bold cursor-default">
                                     Type 42/78
                                 </h5>
                                 <div class="flex">
-                                    <img src="/public/assets/icon-wc.avif" alt="icon wc" class="w-[10%]">
+                                    <img src="/public/assets/icon-wc.webp" alt="icon wc" class="w-[10%]">
                                     <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Kamar Mandi</p>
                                 </div>
                                 <div class="flex">
-                                    <img src="/public/assets/icon-turu.avif" alt="icon wc" class="w-[10%]">
+                                    <img src="/public/assets/icon-turu.webp" alt="icon wc" class="w-[10%]">
                                     <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">2 Kamar Tidur</p>
                                 </div>
                                 <div class="flex">
-                                    <img src="/public/assets/icon-car.png" alt="icon wc" class="w-[10%]">
+                                    <img src="/public/assets/icon-car.webp" alt="icon wc" class="w-[10%]">
                                     <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Mobil</p>
                                 </div>
                             </div>
 
                             <div class="w-[34%] md:mx-2 ml-1">
-                                <img src="/public/assets/subsidi.png" alt="" class="rounded-[5px] object-cover">
+                                <img src="/public/assets/subsidi.webp" alt="" class="rounded-[5px] object-cover">
                                 <h5 class="md:text-lg text-sm font-bold cursor-default">
                                     Type 48/78
                                 </h5>
                                 <div class="flex">
-                                    <img src="/public/assets/icon-wc.avif" alt="icon wc" class="w-[10%]">
+                                    <img src="/public/assets/icon-wc.webp" alt="icon wc" class="w-[10%]">
                                     <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Kamar Mandi</p>
                                 </div>
                                 <div class="flex">
-                                    <img src="/public/assets/icon-turu.avif" alt="icon wc" class="w-[10%]">
+                                    <img src="/public/assets/icon-turu.webp" alt="icon wc" class="w-[10%]">
                                     <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">2 Kamar Tidur</p>
                                 </div>
                                 <div class="flex">
-                                    <img src="/public/assets/icon-car.png" alt="icon wc" class="w-[10%]">
+                                    <img src="/public/assets/icon-car.webp" alt="icon wc" class="w-[10%]">
                                     <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Mobil</p>
                                 </div>
                             </div>
@@ -333,15 +333,15 @@
                         </h6>
                         <div class=" md:mx-2 ml-1">
                             <div class="flex">
-                                <img src="/public/assets/icon-wc.avif" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
+                                <img src="/public/assets/icon-wc.webp" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
                                 <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Kamar Mandi</p>
                             </div>
                             <div class="flex">
-                                <img src="/public/assets/icon-turu.avif" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
+                                <img src="/public/assets/icon-turu.webp" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
                                 <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">2 Kamar Tidur</p>
                             </div>
                             <div class="flex">
-                                <img src="/public/assets/icon-car.png" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
+                                <img src="/public/assets/icon-car.webp" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
                                 <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Mobil</p>
                             </div>
                         </div>
@@ -350,8 +350,8 @@
 
                     <div class="flex mt-4 md:w-[75%]">
 
-                        <img src="/public/assets/griya-kencana-flyer-1.jpg" alt="akademika1" class="md:mx-2 mx-1 md:w-[34%] w-[50%] object-cover rounded-[5px]">
-                        <img src="/public/assets/griya-kencana-dena.jpg" alt="akademika2" class="md:mx-2 mx-1 md:w-[34%] w-[50%] object-cover rounded-[5px]">
+                        <img src="/public/assets/griya-kencana-flyer-1.webp" alt="akademika1" class="md:mx-2 mx-1 md:w-[34%] w-[50%] object-cover rounded-[5px]">
+                        <img src="/public/assets/griya-kencana-dena.webp" alt="akademika2" class="md:mx-2 mx-1 md:w-[34%] w-[50%] object-cover rounded-[5px]">
 
                     </div>
 
@@ -372,15 +372,15 @@
                         </h6>
                         <div class=" md:mx-2 ml-1">
                             <div class="flex">
-                                <img src="/public/assets/icon-wc.avif" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
+                                <img src="/public/assets/icon-wc.webp" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
                                 <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Kamar Mandi</p>
                             </div>
                             <div class="flex">
-                                <img src="/public/assets/icon-turu.avif" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
+                                <img src="/public/assets/icon-turu.webp" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
                                 <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">2 Kamar Tidur</p>
                             </div>
                             <div class="flex">
-                                <img src="/public/assets/icon-car.png" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
+                                <img src="/public/assets/icon-car.webp" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
                                 <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Mobil</p>
                             </div>
                         </div>
@@ -389,8 +389,8 @@
 
                     <div class="flex mt-4 md:w-[75%]">
 
-                        <img src="/public/assets/pattiro-hills-flyer.jpg" alt="akademika1" class="md:mx-2 mx-1 md:w-[34%] w-[50%] object-cover rounded-[5px]">
-                        <img src="/public/assets/pattiro-hills.jpg" alt="akademika2" class="md:mx-2 mx-1 md:w-[34%] w-[50%] object-cover rounded-[5px]">
+                        <img src="/public/assets/pattiro-hills-flyer.webp" alt="akademika1" class="md:mx-2 mx-1 md:w-[34%] w-[50%] object-cover rounded-[5px]">
+                        <img src="/public/assets/pattiro-hills.webp" alt="akademika2" class="md:mx-2 mx-1 md:w-[34%] w-[50%] object-cover rounded-[5px]">
 
                     </div>
 
@@ -412,15 +412,15 @@
                         </h6>
                         <div class=" md:mx-2 ml-1">
                             <div class="flex">
-                                <img src="/public/assets/icon-wc.avif" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
+                                <img src="/public/assets/icon-wc.webp" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
                                 <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Kamar Mandi</p>
                             </div>
                             <div class="flex">
-                                <img src="/public/assets/icon-turu.avif" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
+                                <img src="/public/assets/icon-turu.webp" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
                                 <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">2 Kamar Tidur</p>
                             </div>
                             <div class="flex">
-                                <img src="/public/assets/icon-car.png" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
+                                <img src="/public/assets/icon-car.webp" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
                                 <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Mobil</p>
                             </div>
                         </div>
@@ -429,8 +429,8 @@
 
                     <div class="flex mt-4 md:w-[75%]">
 
-                        <img src="/public/assets/bumi.jpg" alt="akademika1" class="md:mx-2 mx-1 md:w-[34%] w-[50%] object-cover rounded-[5px]">
-                        <img src="/public/assets/bumi-borongloe.jpg" alt="akademika2" class="md:mx-2 mx-1 md:w-[34%] w-[50%] object-cover rounded-[5px]">
+                        <img src="/public/assets/bumi.webp" alt="akademika1" class="md:mx-2 mx-1 md:w-[34%] w-[50%] object-cover rounded-[5px]">
+                        <img src="/public/assets/bumi-borongloe.webp" alt="akademika2" class="md:mx-2 mx-1 md:w-[34%] w-[50%] object-cover rounded-[5px]">
 
                     </div>
 
@@ -459,15 +459,15 @@
                         </h6>
                         <div class=" md:mx-2 ml-1">
                             <div class="flex">
-                                <img src="/public/assets/icon-wc.avif" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
+                                <img src="/public/assets/icon-wc.webp" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
                                 <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">3 Kamar Mandi</p>
                             </div>
                             <div class="flex">
-                                <img src="/public/assets/icon-turu.avif" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
+                                <img src="/public/assets/icon-turu.webp" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
                                 <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">3 Kamar Tidur</p>
                             </div>
                             <div class="flex">
-                                <img src="/public/assets/icon-car.png" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
+                                <img src="/public/assets/icon-car.webp" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
                                 <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">10 Mobil</p>
                             </div>
                         </div>
@@ -476,8 +476,8 @@
 
                     <div class="flex mt-4 md:w-[75%]">
 
-                        <img src="/public/assets/RUMAH-BARU.jpg" alt="akademika1" class="md:mx-2 mx-1 md:w-[34%] w-[50%] object-cover rounded-[5px]">
-                        <img src="/public/assets/RUMAH-BARU-1.jpg" alt="akademika2" class="md:mx-2 mx-1 md:w-[34%] w-[50%] object-cover rounded-[5px]">
+                        <img src="/public/assets/RUMAH-BARU.webp" alt="akademika1" class="md:mx-2 mx-1 md:w-[34%] w-[50%] object-cover rounded-[5px]">
+                        <img src="/public/assets/RUMAH-BARU-1.webp" alt="akademika2" class="md:mx-2 mx-1 md:w-[34%] w-[50%] object-cover rounded-[5px]">
 
                     </div>
 
@@ -497,15 +497,15 @@
                         </h6>
                         <div class=" md:mx-2 ml-1">
                             <div class="flex">
-                                <img src="/public/assets/icon-wc.avif" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
+                                <img src="/public/assets/icon-wc.webp" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
                                 <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Kamar Mandi</p>
                             </div>
                             <div class="flex">
-                                <img src="/public/assets/icon-turu.avif" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
+                                <img src="/public/assets/icon-turu.webp" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
                                 <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">2 Kamar Tidur</p>
                             </div>
                             <div class="flex">
-                                <img src="/public/assets/icon-car.png" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
+                                <img src="/public/assets/icon-car.webp" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
                                 <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Mobil</p>
                             </div>
                         </div>
@@ -514,8 +514,8 @@
 
                     <div class="flex mt-4 md:w-[75%]">
 
-                        <img src="/public/assets/mega-rezky.jpg" alt="akademika1" class="md:mx-2 mx-1 md:w-[34%] w-[50%] object-cover rounded-[5px]">
-                        <img src="/public/assets/mega rezky.jpg" alt="akademika2" class="md:mx-2 mx-1 md:w-[34%] w-[50%] object-cover rounded-[5px]">
+                        <img src="/public/assets/mega-rezky.webp" alt="akademika1" class="md:mx-2 mx-1 md:w-[34%] w-[50%] object-cover rounded-[5px]">
+                        <img src="/public/assets/mega rezky.webp" alt="akademika2" class="md:mx-2 mx-1 md:w-[34%] w-[50%] object-cover rounded-[5px]">
 
                     </div>
 
@@ -536,15 +536,15 @@
                         </h6>
                         <div class=" md:mx-2 ml-1">
                             <div class="flex">
-                                <img src="/public/assets/icon-wc.avif" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
+                                <img src="/public/assets/icon-wc.webp" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
                                 <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Kamar Mandi</p>
                             </div>
                             <div class="flex">
-                                <img src="/public/assets/icon-turu.avif" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
+                                <img src="/public/assets/icon-turu.webp" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
                                 <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">2 Kamar Tidur</p>
                             </div>
                             <div class="flex">
-                                <img src="/public/assets/icon-car.png" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
+                                <img src="/public/assets/icon-car.webp" alt="icon wc" class="md:w-[10%] sm:w-[20px] w-[10px]">
                                 <p class="my-auto mx-2 lg:text-base md:text-sm sm:text-xs text-[8px]">1 Mobil</p>
                             </div>
                         </div>
@@ -553,8 +553,8 @@
 
                     <div class="flex mt-4 md:w-[75%]">
 
-                        <img src="/public/assets/nyamanna.jpg" alt="akademika1" class="md:mx-2 mx-1 md:w-[34%] w-[50%] object-cover rounded-[5px]">
-                        <img src="/public/assets/nyamanna-2.jpg" alt="akademika2" class="md:mx-2 mx-1 md:w-[34%] w-[50%] object-cover rounded-[5px]">
+                        <img src="/public/assets/nyamanna.webp" alt="akademika1" class="md:mx-2 mx-1 md:w-[34%] w-[50%] object-cover rounded-[5px]">
+                        <img src="/public/assets/nyamanna-2.webp" alt="akademika2" class="md:mx-2 mx-1 md:w-[34%] w-[50%] object-cover rounded-[5px]">
 
                     </div>
 

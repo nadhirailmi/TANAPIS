@@ -1,6 +1,6 @@
 <template>
 
-    <section id="hero" class="w-full bg-center-bottom bg-no-repeat mb-8 md:bg-cover bg-[url('/public/assets/HERO.avif')] justify-between flex px-4" loading="lazy">
+    <section id="hero" class="w-full bg-center-bottom bg-no-repeat mb-8 md:bg-cover bg-[url('/public/assets/HERO.webp')] justify-between flex px-4" loading="lazy">
 
         <div class="text-white text-center md:text-left py-40 mx-11 md:w-[50%]">
 

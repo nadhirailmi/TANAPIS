@@ -1,5 +1,5 @@
 <template>
-  <topnav/>
+  <topnav/> 
   <navbar/>
   <hero/>
   <about/>
@@ -25,11 +25,9 @@ import products from './components/ProductS.vue';
 import cta2 from './components/CtA2.vue';
 import maps from './components/MaPs.vue';
 import foter from './components/FooTer.vue';
-import inves from './components/InveSa.vue';
 import about from './components/AboutUs.vue';
 import btn from './components/ButTon.vue';
 import service from './components/SerVice.vue';
-import testi from './components/TesTi.vue';
 import hormat from './components/HorMat.vue';
 import galeri from './components/GaleRi.vue'; 
 import cta from './components/CtA.vue';
@@ -46,10 +44,8 @@ export default {
     cta2,
     maps,
     foter,
-    inves,
     about,
     btn,
-    testi,
     hormat,
     galeri,
     cta,

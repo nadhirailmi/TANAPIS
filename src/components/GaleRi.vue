@@ -6,46 +6,46 @@
         <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
             <div class="grid gap-4">
                 <div>
-                    <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/bumi-2.jpg" alt="">
+                    <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/bumi-2.webp" alt="">
                 </div>
                 <div>
-                    <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/griya kencana.jpg" alt="">
+                    <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/griya kencana.webp" alt="">
                 </div>
                 <div>
-                    <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/auliyah.jpg" alt="">
-                </div>
-            </div>
-            <div class="grid gap-4">
-                <div>
-                    <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/ayesha.jpg" alt="">
-                </div>
-                <div>
-                    <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/tanah-2.jpg" alt="">
-                </div>
-                <div>
-                    <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/bumi-borongloe.jpg" alt="">
+                    <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/auliyah.webp" alt="">
                 </div>
             </div>
             <div class="grid gap-4">
                 <div>
-                    <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/rumah-3.jpg" alt="">
+                    <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/ayesha.webp" alt="">
                 </div>
                 <div>
-                    <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/rumah.jpg" alt="">
+                    <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/tanah-2.webp" alt="">
                 </div>
                 <div>
-                    <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/rumah-2.jpg" alt="">
+                    <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/bumi-borongloe.webp" alt="">
                 </div>
             </div>
             <div class="grid gap-4">
                 <div>
-                    <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/tanah-4.jpg" alt="">
+                    <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/rumah-3.webp" alt="">
                 </div>
                 <div>
-                    <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/rumah-4.png" alt="">
+                    <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/rumah.webp" alt="">
                 </div>
                 <div>
-                    <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/tanah.jpg" alt="">
+                    <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/rumah-2.webp" alt="">
+                </div>
+            </div>
+            <div class="grid gap-4">
+                <div>
+                    <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/tanah-4.webp" alt="">
+                </div>
+                <div>
+                    <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/rumah-4.webp" alt="">
+                </div>
+                <div>
+                    <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/tanah.webp" alt="">
                 </div>
             </div>
         </div>
@@ -67,46 +67,46 @@
             >
                 <div class="grid gap-4">
                     <div>
-                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/rumah-11.png" alt="">
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/rumah-11.webp" alt="">
                     </div>
                     <div>
-                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/tanah-5.jpg" alt="">
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/tanah-5.webp" alt="">
                     </div>
                     <div>
-                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/nyamanna.jpg" alt="">
-                    </div>
-                </div>
-                <div class="grid gap-4">
-                    <div>
-                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/rumah-10.jpg" alt="">
-                    </div>
-                    <div>
-                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/tanah-3.jpg" alt="">
-                    </div>
-                    <div>
-                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/tanah-6.jpg" alt="">
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/nyamanna.webp" alt="">
                     </div>
                 </div>
                 <div class="grid gap-4">
                     <div>
-                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/rumah-12.png" alt="">
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/rumah-10.webp" alt="">
                     </div>
                     <div>
-                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/rumah-5.jpg" alt="">
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/tanah-3.webp" alt="">
                     </div>
                     <div>
-                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/rumah-7.jpg" alt="">
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/tanah-6.webp" alt="">
                     </div>
                 </div>
                 <div class="grid gap-4">
                     <div>
-                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/rumah-9.jpg" alt="">
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/rumah-12.webp" alt="">
                     </div>
                     <div>
-                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/rumah-8.png" alt="">
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/rumah-5.webp" alt="">
                     </div>
                     <div>
-                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/rumah-6.jpg" alt="">
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/rumah-7.webp" alt="">
+                    </div>
+                </div>
+                <div class="grid gap-4">
+                    <div>
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/rumah-9.webp" alt="">
+                    </div>
+                    <div>
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/rumah-8.webp" alt="">
+                    </div>
+                    <div>
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/rumah-6.webp" alt="">
                     </div>
                 </div>
             </div>
@@ -121,34 +121,34 @@
             >
                 <div class="grid gap-4">
                     <div>
-                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/RUMAH-OUTSIDE-1.png" alt="">
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/RUMAH-OUTSIDE-1.webp" alt="">
                     </div>
                     <div>
-                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/DALAM-RUMAH-4.jpg" alt="">
-                    </div>
-                </div>
-                <div class="grid gap-4">
-                    <div>
-                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/RUMAH-OUTSIDE.jpg" alt="">
-                    </div>
-                    <div>
-                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/DALAM-RUMAH-3.jpg" alt="">
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/DALAM-RUMAH-4.webp" alt="">
                     </div>
                 </div>
                 <div class="grid gap-4">
                     <div>
-                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/DALAM-RUMAH.jpg" alt="">
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/RUMAH-OUTSIDE.webp" alt="">
                     </div>
                     <div>
-                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/DALAM-RUMAH-2.jpg" alt="">
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/DALAM-RUMAH-3.webp" alt="">
                     </div>
                 </div>
                 <div class="grid gap-4">
                     <div>
-                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/RUMAH-BARU.jpg" alt="">
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/DALAM-RUMAH.webp" alt="">
                     </div>
                     <div>
-                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/DALAM-RUMAH-1.jpg" alt="">
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/DALAM-RUMAH-2.webp" alt="">
+                    </div>
+                </div>
+                <div class="grid gap-4">
+                    <div>
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/RUMAH-BARU.webp" alt="">
+                    </div>
+                    <div>
+                        <img class="h-auto max-w-full rounded-[5px]" src="/public/assets/DALAM-RUMAH-1.webp" alt="">
                     </div>
                 </div>
 

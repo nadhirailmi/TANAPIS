@@ -1,7 +1,7 @@
 <template>
     <div 
         loading="lazy" 
-        class="hidden md:block w-full text-white px-8 md:px-14 text-xl py-5 md:py-10 text-center md:text-left bg-center-bottom bg-no-repeat mb-8 md:bg-cover bg-[url('/public/assets/bg2.avif')]"
+        class="hidden md:block w-full text-white px-8 md:px-14 text-xl py-5 md:py-10 text-center md:text-left bg-center-bottom bg-no-repeat mb-8 md:bg-cover bg-gradient-to-t from-primary1 via-[#2B4B69] to-primary1"
     >
         <div id="custom-controls-gallery" class="relative w-full" data-carousel="static">
             <div class="flex justify-between">
@@ -43,7 +43,7 @@
 
                             <div class="w-[34%] md:mx-2">
 
-                                <img src="/public/assets/wisata-executive.png" alt="">
+                                <img src="/public/assets/wisata-executive.webp" alt="">
                                 <h3 class="md:text-xl sm:text-base text-sm font-bold">Bukit Syirkah Wisata
                                     Executive</h3>
                                 <p class="md:text-base sm:text-sm text-xs">
@@ -57,7 +57,7 @@
 
                             <div class="w-[34%] md:mx-2 mx-1">
 
-                                <img src="/public/assets/wisata-premium.png" alt="">
+                                <img src="/public/assets/wisata-premium.webp" alt="">
                                 <h3 class="md:text-xl sm:text-base text-sm font-bold text-start">Bukit Syirkah Wisata
                                     Premium</h3>
                                 <p class="md:text-base sm:text-sm text-xs text-start">
@@ -71,7 +71,7 @@
 
                             <div  class="w-[34%] md:mx-2">
 
-                                <img src="/public/assets/wisata-3.png" alt="">
+                                <img src="/public/assets/wisata-3.webp" alt="">
                                 <h3 class="md:text-xl sm:text-base text-sm font-bold">Bukit Syirka Wisata 3</h3>
                                 <p class="md:text-base sm:text-sm text-xs">
                                     Air Terjun Lembah Karaeng,
@@ -95,7 +95,7 @@
 
                             <div class="w-[34%] md:mx-2">
 
-                                <img src="/public/assets/wisata-4.png" alt="">
+                                <img src="/public/assets/wisata-4.webp" alt="">
                                 <h3 class="md:text-xl sm:text-base text-sm font-bold">Bukit Syirkah Wisata 4</h3>
                                 <p class="md:text-base sm:text-sm text-xs">
                                     Air Terjun Lembah Karaeng,
@@ -108,7 +108,7 @@
 
                             <div class="w-[34%] md:mx-2 mx-1">
 
-                                <img src="/public/assets/wisata-5.png" alt="">
+                                <img src="/public/assets/wisata-5.webp" alt="">
                                 <h3 class="md:text-xl sm:text-base text-sm font-bold">Bukit Syirkah Wisata 5</h3>
                                 <p class="md:text-base sm:text-sm text-xs">
                                     Air Terjun Lembah Karaeng,
@@ -121,7 +121,7 @@
 
                             <div  class="w-[34%] md:mx-2">
 
-                                <img src="/public/assets/maros.png" alt="">
+                                <img src="/public/assets/maros.webp" alt="">
                                 <h3 class="md:text-xl sm:text-base text-sm font-bold">Bukit Syirkah Maros</h3>
                                 <p class="md:text-base sm:text-sm text-xs">
                                     Desa Tompobulu, Kab. Maros
@@ -144,7 +144,7 @@
 
                             <div class="w-[32%]">
 
-                                <img src="/public/assets/kavling-ruko.png" alt="">
+                                <img src="/public/assets/kavling-ruko.webp" alt="">
                                 <h3 class="md:text-xl sm:text-base text-sm font-bold">Tanah Kavling Ruko</h3>
                                 <p class="md:text-base sm:text-sm text-xs">
                                     Kec. Tompobulu, Kab. Maros

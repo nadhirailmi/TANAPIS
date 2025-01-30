@@ -34,7 +34,7 @@
 
             <div class="ml-2 md:w-[50%] mt-3 md:mt-0">
 
-                <img src="/public/assets/Untitled design (2).avif" alt="" class="h-full mx-auto w-[50%]">
+                <img src="/public/assets/Untitled design (2).webp" alt="" class="h-full mx-auto w-[50%]">
 
             </div>
 
@@ -49,7 +49,7 @@
 
                     <div class="bg-primary2 px-4 py-4 w-[50%]">
 
-                        <img src="/public/assets/icon-mata.png" alt="" class="mx-auto md:w-20 w-10 h-10 md:h-20">
+                        <img src="/public/assets/icon-mata.webp" alt="" class="mx-auto md:w-20 w-10 h-10 md:h-20">
 
                     </div>
 
@@ -80,7 +80,7 @@
 
                     <div class="bg-primary2 px-4 py-4 w-[50%] justify-center">
 
-                        <img src="/public/assets/Group.png" alt="" class="mx-auto md:w-20 w-10 h-10 md:h-20">
+                        <img src="/public/assets/Group.webp" alt="" class="mx-auto md:w-20 w-10 h-10 md:h-20">
 
                     </div>
 

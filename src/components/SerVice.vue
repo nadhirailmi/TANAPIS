@@ -1,6 +1,6 @@
 <template>
 
-    <div id="layan" class="text-center md:text-start px-8 md:px-14 md:flex py-10 text-white bg-center-bottom bg-no-repeat bg-cover md:bg-cover bg-[url('/public/assets/bg2.avif')] bg-blend-multiply cursor-default">
+    <div id="layan" class="text-center md:text-start px-8 md:px-14 md:flex py-10 text-white cursor-default bg-gradient-to-t from-primary1 via-[#2B4B69] to-primary1">
 
         <div class="md:w-[50%] md:mr-2 text-start">
 
@@ -17,7 +17,7 @@
 
                 <div class="flex">
 
-                    <img src="/public/assets/bank.png" alt="" class="md:w-20 w-16 h-13 md:h-16">
+                    <img src="/public/assets/bank.webp" alt="" class="md:w-20 w-16 h-13 md:h-16">
                     <h4 class="md:text-xl my-auto font-bold ml-4 text-base">PERBANKAN KONVENSIONAL</h4>
 
                 </div>
@@ -32,7 +32,7 @@
 
                 <div class="flex">
 
-                    <img src="/public/assets/bank syatiah.png" alt="" class="md:w-20 w-16 h-13 md:h-16">
+                    <img src="/public/assets/bank syatiah.webp" alt="" class="md:w-20 w-16 h-13 md:h-16">
                     <h4 class="md:text-xl my-auto font-bold ml-4 text-base">PERBANKAN SYARIAH</h4>
 
                 </div>
@@ -48,7 +48,7 @@
 
                 <div class="flex">
 
-                    <img src="/public/assets/bunga.png" alt="" class="md:w-20 w-16 h-13 md:h-16">
+                    <img src="/public/assets/bunga.webp" alt="" class="md:w-20 w-16 h-13 md:h-16">
                     <h4 class="md:text-xl my-auto font-bold ml-4 text-base">TANPA BUNGA & RIBA</h4>
 
                 </div>
@@ -63,7 +63,7 @@
 
                 <div class="flex">
 
-                    <img src="/public/assets/check.png" alt="" class="md:w-20 w-16 h-13 md:h-16">
+                    <img src="/public/assets/check.webp" alt="" class="md:w-20 w-16 h-13 md:h-16">
                     <h4 class="md:text-xl my-auto font-bold ml-4 text-base">TANPA BI CHEKING</h4>
 
                 </div>
@@ -84,7 +84,7 @@
 
                 <div class="flex">
 
-                    <img src="/public/assets/legal.png" alt="" class="md:w-20 w-16 h-13 md:h-16">
+                    <img src="/public/assets/legal.webp" alt="" class="md:w-20 w-16 h-13 md:h-16">
                     <h4 class="md:text-xl my-auto font-bold ml-4 text-base">LEGAL PROJECT</h4>
 
                 </div>
@@ -99,7 +99,7 @@
 
                 <div class="flex">
 
-                    <img src="/public/assets/exclusive.png" alt="" class="md:w-20 w-16 h-13 md:h-16">
+                    <img src="/public/assets/exclusive.webp" alt="" class="md:w-20 w-16 h-13 md:h-16">
                     <h4 class="md:text-xl my-auto font-bold ml-4 text-base">EXCLUSIVE PROJECT</h4>
 
                 </div>
@@ -114,7 +114,7 @@
 
                 <div class="flex">
 
-                    <img src="/public/assets/kpr.png" alt="" class="md:w-20 w-16 h-13 md:h-16">
+                    <img src="/public/assets/kpr.webp" alt="" class="md:w-20 w-16 h-13 md:h-16">
                     <h4 class="md:text-xl my-auto font-bold ml-4 text-base">KPR TANPA BANK</h4>
 
                 </div>
@@ -129,7 +129,7 @@
 
                 <div class="flex">
 
-                    <img src="/public/assets/akad.png" alt="" class="md:w-20 w-16 h-13 md:h-16">
+                    <img src="/public/assets/akad.webp" alt="" class="md:w-20 w-16 h-13 md:h-16">
                     <h4 class="md:text-xl my-auto font-bold ml-4 text-base">TANPA AKAD BERMASALAH </h4>
 
                 </div>
@@ -145,7 +145,7 @@
 
                 <div class="flex">
 
-                    <img src="/public/assets/sita.png" alt="" class="md:w-20 w-16 h-13 md:h-16">
+                    <img src="/public/assets/sita.webp" alt="" class="md:w-20 w-16 h-13 md:h-16">
                     <h4 class="md:text-xl my-auto font-bold ml-4 text-base">TANPA SITA </h4>
 
                 </div>

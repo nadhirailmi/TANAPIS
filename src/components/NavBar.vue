@@ -3,8 +3,8 @@
     <nav class="bg-white border-gray-200 dark:bg-gray-900">
     <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
         <div class="flex items-center space-x-3 rtl:space-x-reverse">
-            <img src="/public/assets/Untitled design (3).avif" class="h-10 w-10" alt="Logo Ambisigo" />
-            <img src="/public/assets/Untitled design (2).avif" class="h-10 w-10" alt="Logo Tanapis" />
+            <img src="/public/assets/Untitled design (3).webp" class="h-10 w-10" alt="Logo Ambisigo" />
+            <img src="/public/assets/Untitled design (2).webp" class="h-10 w-10" alt="Logo Tanapis" />
         </div>
         <button data-collapse-toggle="navbar-default" type="button" class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="navbar-default" aria-expanded="false">
             <span class="sr-only">Open main menu</span>
