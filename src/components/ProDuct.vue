@@ -135,7 +135,7 @@
 
                         </div>
 
-                        <div class="w-[50%] sm:hidden block md:mx-2 ml-1">
+                        <div class="w-[50%] sm:hidden block md:mx-2">
                             <img src="/public/assets/fatinah-flyer.webp" alt="" class="rounded-[5px] object-cover">
                             <h5 class="md:text-lg text-sm font-bold cursor-default">
                                 Cluster Fatinah
