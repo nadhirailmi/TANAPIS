@@ -16,7 +16,7 @@
         <div class="sm:w-[34%] mt-5 md:mt-0">
             <h1 class="md:text-2xl mb-2 font-bold text-md cursor-default">Tentang Kami</h1>
             <p class="text-[10px] md:text-base cursor-default">
-                Pusat dan Agen Pemasaran Properti Perumahan, Tanah Kavling, Gambar , Site Plan dan Master Plan Kontraktor Supplier,Perdagangan Peralatan, Perlengkapan Bahan Bangunan
+                Pusat dan agen pemasaran properti perumahan, tanah kavling, gambar, site plan dan master plan kontraktor supplier, perdagangan peralatan perlengkapan bahan bangunan.
             </p>
         </div>
     </div>

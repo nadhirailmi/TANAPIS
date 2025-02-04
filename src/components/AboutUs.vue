@@ -13,7 +13,7 @@
             </video>
             
             <p class="md:my-auto md:w-[484px] mx-auto mt-5 cursor-default">
-                Perusahaan TANAPIS Merupakan Perusahaan di Bawa naungan PT. Amal Multi Bisnis Syariah Group (Perusahaan AMBISIGO) yang bergerak pada bidang Usaha Agen Pemasaran Properti Syariah.
+                Perusahaan TANAPIS merupakan perusahaan di bawah naungan PT. Amal Multi Bisnis Syariah Group (Perusahaan AMBISIGO) yang bergerak pada bidang usaha agen pemasaran properti syariah.
             </p>
 
         </div>
@@ -26,9 +26,9 @@
 
             <div class="custom-scrollbar p-4 md:text-lg rounded-md border-primary2 border-2 flex-1 flex overflow-y-auto mr-2 md:h-72 h-52">
                 <p class="cursor-default">
-                    Perusahaan TANAPIS Merupakan Agency Pemasaran Properti Syariah yang berkomitmen dalam menyiarkan properti Syariah serta membantu masyarakat untuk memiliki properti baik dalam bentuk kavling maupun rumah. <br>
+                    Perusahaan TANAPIS merupakan agen pemasaran properti syariah yang berkomitmen dalam menyiarkan properti syariah serta membantu masyarakat untuk memiliki properti baik dalam bentuk kavling maupun rumah. <br>
 
-                    Perusahaan TANAPIS telah banyak melakukan Transaksi, kami hadir untuk membantu anda mulai dari konsultasi umum mengenai property sampai melakukan berbagai macam transaksi Jual, beli rumah baru, Rumah bekas,Take Over Sewa berbagai property, seperti  Tanah,rumah kavling,gudang, apartemen,ruko,Gambar, Master Plan,Site Plan ,commercial,Office, Supplier  Bahan Bangunan, Kontraktor, Perdagangan Perlengkapan dan Peralatan  Property. Semua kami tangani secara profesional 
+                    Perusahaan TANAPIS telah banyak melakukan transaksi, kami hadir untuk membantu anda mulai dari konsultasi umum mengenai properti sampai melakukan berbagai macam transaksi jual, beli rumah baru, rumah bekas,take over sewa berbagai properti, seperti tanah, rumah kavling, gudang, apartemen, ruko, gambar, master plan, site plan, komersial, kantor, supplier bahan bangunan, kontraktor, perdagangan perlengkapan dan peralatan  properti. Semua kami tangani secara profesional. 
                 </p>
             </div>
 
@@ -65,7 +65,7 @@
 
                     <div class="flex align-middle justify-center h-full">
 
-                        <p class="my-auto text-center align-middle lg:text-base md::text-sm text-xs cursor-default">Menjadi Perusahaan Agen Properti Syariah  Terpercaya, profesional , berkualitas,berintegritasdan terbaik di Indonesia dengan sistem Syariah berkah sejak awal.</p>
+                        <p class="my-auto text-center align-middle lg:text-base md::text-sm text-xs cursor-default">Menjadi perusahaan agen properti syariah terpercaya, profesional , berkualitas,berintegritas dan terbaik di Indonesia dengan sistem syariah berkah sejak awal.</p>
 
                     </div>
 
@@ -97,7 +97,7 @@
                     <div class="relative h-full overflow-hidden rounded-md text-xs md:text-sm lg:text-base">
                         <!-- Item 1 -->
                         <div class="duration-700 ease-in-out h-full flex items-center justify-center" data-carousel-item>
-                            <p class="text-center px-5 flex items-center justify-center h-full bg-white cursor-default">Mengupayakan agar Setiap transaksi berdasarkan prinsip syariah sehingga berkah sejak awal.</p>
+                            <p class="text-center px-5 flex items-center justify-center h-full bg-white cursor-default">Mengupayakan agar setiap transaksi berdasarkan prinsip syariah sehingga berkah sejak awal.</p>
                         </div>
                         <!-- Item 2 -->
                         <div class="duration-700 ease-in-out h-full flex items-center justify-center" data-carousel-item>
@@ -109,7 +109,7 @@
                         </div>
                         <!-- Item 4 -->
                         <div class="duration-700 ease-in-out h-full flex items-center justify-center" data-carousel-item>
-                            <p class="text-center px-5 flex items-center justify-center h-full bg-white cursor-default">Melakukan manajemen Marketing berbasis teknologi, dengan sinergi, kepedulian Depeloper,Agen kepada customer melalui program sinergi marketing Care(SMC)</p>
+                            <p class="text-center px-5 flex items-center justify-center h-full bg-white cursor-default">Melakukan manajemen marketing berbasis teknologi, dengan sinergi, kepedulian developer, agen kepada customer melalui program Sinergi Marketing Care(SMC)</p>
                         </div>
                         <!-- Item 5 -->
                         <div class="duration-700 ease-in-out h-full flex items-center justify-center" data-carousel-item>
@@ -117,7 +117,7 @@
                         </div>
                         <!-- Item 6 -->
                         <div class="duration-700 ease-in-out h-full flex items-center justify-center" data-carousel-item>
-                            <p class="text-center px-5 flex items-center justify-center h-full bg-white cursor-default">Menyediakan Situs web dan Informasi tentang Kerjasama kami dengan Depeloper Property yang di handle Oleh Perusahaan TANAPIS.</p>
+                            <p class="text-center px-5 flex items-center justify-center h-full bg-white cursor-default">Menyediakan situs web dan informasi tentang kerjasama kami dengan developer properti yang dihandle oleh Perusahaan TANAPIS.</p>x
                         </div>
 
                     </div>

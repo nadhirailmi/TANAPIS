@@ -66,7 +66,6 @@ import {
     initTabs, 
     initTooltips } from 'flowbite'
 
-// initialize components based on data attribute selectors
 onMounted(() => {
     initAccordions();
     initCarousels();
@@ -79,5 +78,25 @@ onMounted(() => {
     initPopovers();
     initTabs();
     initTooltips();
-})
+});
+
+function changeFavicon(src) {
+  let link = document.querySelector("link[rel~='icon']");
+  if (!link) {
+    link = document.createElement("link");
+    link.rel = "icon";
+    document.head.appendChild(link);
+  }
+  link.href = src;
+}
+
+changeFavicon('public/assets/Untitled design (2).webp');
+</script>
+
+<script setup>
+import { onMounted } from 'vue';
+
+onMounted(() => {
+  document.title = "CV. Tata Niaga Ambisigo Properti Syariah";
+});
 </script>

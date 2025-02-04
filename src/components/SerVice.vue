@@ -23,7 +23,7 @@
                 </div>
 
                 <p class="mt-2 md:text-base text-sm">
-                    Akad Pembiayaan melalui Bank Konvensional  diutamakan memiliki promo subsidi atau tanpa bunga.
+                    Akad pembiayaan melalui Bank Konvensional  diutamakan memiliki promo subsidi atau tanpa bunga.
                 </p>
 
             </div>
@@ -69,7 +69,7 @@
                 </div>
 
                 <p class="mt-2 md:text-base text-sm">
-                    Tanpa BI Cheking karena Developer tidak
+                    Tanpa BI Cheking karena developer tidak
                     menggunakan perbankan sebagai pihak perantara. 
                 </p>
 
@@ -120,7 +120,7 @@
                 </div>
 
                 <p class="mt-2 md:text-base text-sm">
-                    Transaksi hanya dilakukan oleh kedua belah pihak yaitu antara Developer dan Customar secara langsung tanpa menggunakan bank.
+                    Transaksi hanya dilakukan oleh kedua belah pihak yaitu antara developer dan customer secara langsung tanpa menggunakan bank.
                 </p>
 
             </div>

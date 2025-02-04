@@ -16,11 +16,11 @@
                 <div class="bg-primary2 text-primary2 w-[3px] mr-2"><p></p></div>
             <div class="w-full bg-primary1">
                 <p class="text-xs w-full md:text-xl px-2 cursor-default">
-                    InsyaAllah Semua akan di Kelola Sesuai
+                    InsyaAllah semua akan dikelola sesuai
                 </p>
                 <div class="bg-primary2">
                     <p class="text-xs md:text-xl px-2 bg-primary1 w-fit cursor-default">
-                        Sistem Syariat Islam
+                        sistem syariat islam.
                     </p>
                 </div>
             </div>

@@ -56,7 +56,7 @@
             v-if="!showMore"
             @click="toggleMore"
         >
-            Lihat Lebih Banyak...
+            Lihat lebih banyak...
         </h1>
 
         <!-- BATCH 2 -->

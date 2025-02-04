@@ -2,7 +2,7 @@
     <div class="px-8 md:px-14 py-10 text-center">
         <h1 class="font-bold mb-2 md:text-2xl sm:text-xl text-lg cursor-default" id="produk">Produk Kami</h1>
         <p class="cursor-default md:text-base sm:text-sm text-xs">
-            Adapun Produk yang di Tawarkan Oleh Perusahaan TANAPIS di antaranya adalah:
+            Adapun produk yang ditawarkan oleh Perusahaan TANAPIS di antaranya adalah:
         </p>
 
         <div class="md:mb-4 mb-2 mt-2 md:mt-4">
